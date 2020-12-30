@@ -16,7 +16,7 @@ author: Steve Ling
 navbar-links:
 # About Me: "aboutme"
   Author's home: "https://slingman.github.io"
-  Resources:
+# Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
