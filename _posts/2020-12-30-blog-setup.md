@@ -5,7 +5,7 @@ subtitle: Things I learned so far
 cover-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
 thumbnail-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_t.jpg
 share-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
-tags: [blog, test, learning]
+tags: [blog, test, learning, 2020]
 ---
 
 2020 would've been a good year to start back up a **Project 365** again, but I obviously missed the boat on that one.
