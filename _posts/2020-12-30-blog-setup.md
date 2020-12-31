@@ -1,17 +1,27 @@
 ---
 layout: post
 title: Setting up a blog via Github
-subtitle: Things learned so far
+subtitle: Things I learned so far
 cover-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
 thumbnail-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_t.jpg
 share-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
-tags: [blog, test]
+tags: [blog, test, learning]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+2020 would've been a good year to start back up a **Project 365** again, but I obviously missed the boat on that one.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+At this moment, it would appear that not much will be different in 2021, so, I figured... why not bring on the challenge which I failed miserably back in 2013.  
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+I was only able to do the project through March, and then shit kind kinda hit the fan in April.  Raiden was born in April of that year, which was probably the only great thing that happened in 2013.  June of the same year, I was laid off from a job that I held for about 6 years up to that point.  In hindsight, I supposed those times would've been good to blog about. :-P
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Fast forward to this new year's eve-eve for 2021, I can't say there is really much that I can complain about at the moment.  2020 was certainly a shit show of a fucking year, but we came out of it with the orange man leaving the white building soon, and everyone in my family has managed it quite nicely.  No one has wanted to kill each other yet, and most importantly, we are all healthy.
+
+So now, onto setting up this blog situation. My professional website has been hosted at <https://slingman.github.io> for the past few years or so, I kept my domain of slingonline.com still, but that old blog has been long gone, so now I need a new place to blog and post pictures.  And as all of you know, these days are much different from 2013 - Instagram and TikTok are much of a main platform of choice these days which kinda replaced what my old ass did for blogging.  None the less, this project is somewhat of a personal challenge at this point, let's see how far we can take this thing in 2021!
+
+Anyways, here are the things that I did in the last few days to ready this blog for 2021:
+1. I went through a few themes before I found this one - so you just kinda have to look for it
+2. Fork the Jekyll theme that you like in your Github space
+3. Learn Markdown
+4. Commit and Push your changes like any Github repo
+
+So... here goes nothin'!  See ya on Jan 1st, 2021!
