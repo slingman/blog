@@ -3,7 +3,7 @@ layout: post
 title: Setting up a blog via Github
 subtitle: Things learned so far
 cover-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
-thumbnail-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
+thumbnail-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_t.jpg
 share-img: https://live.staticflickr.com/65535/50780267173_fd8212209f_c.jpg
 tags: [blog, test]
 ---
