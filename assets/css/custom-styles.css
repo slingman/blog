@@ -1,6 +1,6 @@
 /** overwrite tags css **/
 .blog-tags a {
-  border-color: {{ site.text-col | default: "#404040" }};
+  border:1px solid {{ site.text-col | default: "#404040" }};
 }
 
 .post-img-wrap {
