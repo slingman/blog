@@ -1,3 +1,8 @@
+/** overwrite tags css **/
+.blog-tags a {
+  border-color: {{ site.text-col | default: "#404040" }};
+}
+
 .post-img-wrap {
   border:5px solid #eee;
 }
