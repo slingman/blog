@@ -21,6 +21,6 @@ Today has been eventful...
 **10:30am** - Storm passing through
 
 <p class="post-img-wrap">
-  <img src="]https://live.staticflickr.com/65535/50801291861_f7fab06e92_c.jpg">
+  <img src="https://live.staticflickr.com/65535/50801291861_f7fab06e92_c.jpg">
 </p>
 
