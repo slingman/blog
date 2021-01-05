@@ -18,12 +18,12 @@ Today has been eventful...
 **8:30am** - Power outage again
 
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50801408097_98f033c062_c.jpg">
+  <img src="https://live.staticflickr.com/65535/50801408097_98f033c062_b.jpg">
 </p>
 
 **10:30am** - Storm passing through
 
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50801291861_f7fab06e92_c.jpg">
+  <img src="https://live.staticflickr.com/65535/50801291861_f7fab06e92_b.jpg">
 </p>
 
