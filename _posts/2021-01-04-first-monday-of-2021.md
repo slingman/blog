@@ -16,13 +16,11 @@ Today has been... eventful...
 **7:30am** - Mini storm passing through
 
 **8:30am** - Power outage again
-
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50801408097_98f033c062_b.jpg">
 </p>
 
 **10:30am** - Storm passing through
-
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50801291861_f7fab06e92_b.jpg">
 </p>
@@ -30,7 +28,13 @@ Today has been... eventful...
 **12:30pm** - Power restored
 
 **1:00pm** - Domino effect of the power outage affecting some Xfinity crap which means I lost my internet connection
-
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50801868711_5907197571_b.jpg">
+</p>
+
+**2:00pm** - Internet restored
+
+**5:00pm** - Work is not done by PG&E
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50801240023_427652e738_c.jpg">
 </p>
