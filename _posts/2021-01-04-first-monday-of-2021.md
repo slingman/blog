@@ -36,5 +36,5 @@ Today has been... eventful...
 
 **5:00pm** - Work is not done by PG&E
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50801240023_427652e738_c.jpg">
+  <img src="https://live.staticflickr.com/65535/50801240023_427652e738_b.jpg">
 </p>
