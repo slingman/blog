@@ -10,8 +10,11 @@ tags: [blog, 2021, project 365, 004/365]
 Today has been eventful... 
 
 **6:20am** - Power outage
+
 **7:10am** - Power restored
+
 **7:30am** - Mini storm passing through
+
 **8:30am** - Power outage again
 
 <p class="post-img-wrap">
