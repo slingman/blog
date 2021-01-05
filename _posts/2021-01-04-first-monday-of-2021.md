@@ -7,7 +7,7 @@ thumbnail-img: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35
 share-img: https://live.staticflickr.com/65535/50792840587_6fd86f47d5_t.jpg
 tags: [blog, 2021, project 365, 004/365]
 ---
-Today has been eventful... 
+Today has been... eventful... 
 
 **6:20am** - Power outage
 
@@ -27,3 +27,10 @@ Today has been eventful...
   <img src="https://live.staticflickr.com/65535/50801291861_f7fab06e92_b.jpg">
 </p>
 
+**12:30pm** - Power restored
+
+**1:00pm** - Domino effect of the power outage affecting some Xfinity crap which means I lost my internet connection
+
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50801868711_5907197571_b.jpg">
+</p>
