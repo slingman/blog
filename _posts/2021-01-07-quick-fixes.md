@@ -2,9 +2,24 @@
 layout: post
 title: Quick fixes
 subtitle: 007/365 | Project 365
-cover-img: https://live.staticflickr.com/65535/50805401288_0ddd0c0480_h.jpg
-thumbnail-img: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/135517642_856325858534170_6812752293130124624_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=qq1S4ze4XAYAX94BlXn&tp=1&oh=b50e1d247d54ccd680042d0e5e3e67d2&oe=601D9A67
-share-img: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/136090592_2358559710957355_4105272285523026193_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=5jBQHqeLVxIAX9yrj6o&tp=1&oh=4549a897305734bfd57e745de9597097&oe=601ED7FB
+cover-img: https://logos-download.com/wp-content/uploads/2016/06/Trader_Joes_logo_wordmark.png
 tags: [blog, 2021, project 365, 007/365]
 ---
-Since the pandemic... 
+Since the pandemic and the quarantine, a routine needed to be established with the kids online school and my work schedule.  Making quick lunches has become a necessity. Buying frozen things from Trader Joe's as kids' lunch has become essential.
+
+Today, we decided to try frozen ravioli from Trader Joe's...
+
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50810754798_a8753b8cf7_b.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50813149547_08c63ed5ce_c.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50812306143_1d7c649d5d_b.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50813167522_7232275a65_b.jpg">
+</p>
+
+Honestly... it wasn't bad. Lotus loves fresh basil... so that made it quite good along with some mozarella... 
