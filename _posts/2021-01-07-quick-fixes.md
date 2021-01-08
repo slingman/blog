@@ -7,3 +7,4 @@ thumbnail-img: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35
 share-img: https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/136090592_2358559710957355_4105272285523026193_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=5jBQHqeLVxIAX9yrj6o&tp=1&oh=4549a897305734bfd57e745de9597097&oe=601ED7FB
 tags: [blog, 2021, project 365, 007/365]
 ---
+Since the pandemic... 
