@@ -15,6 +15,7 @@ Today, we decided to try frozen ravioli from Trader Joe's...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50813149547_08c63ed5ce_c.jpg">
 </p>
+Still a bit amazed at how the tomato sauce is cubed like that!
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50812306143_1d7c649d5d_b.jpg">
 </p>
