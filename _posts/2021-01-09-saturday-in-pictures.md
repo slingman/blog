@@ -2,10 +2,10 @@
 layout: post
 title: Saturday in pictures
 subtitle: 009/365 | Project 365
-cover-img: https://live.staticflickr.com/65535/50818647126_c11b24d0da_h.jpg
+cover-img: https://live.staticflickr.com/65535/50818640261_0f544264ce_h.jpg
 tags: [blog, 2021, project 365, 009/365]
 ---
-Behold... some police activity alas in Foster City... need two backups apparently for a what appeared to be a routine stop.
+The day started chill... and we ended up in San Francisco to have dinner with mom.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50818647126_c11b24d0da_b.jpg">
 </p>
