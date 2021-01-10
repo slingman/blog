@@ -1,0 +1,23 @@
+---
+layout: post
+title: Saturday in pictures
+subtitle: 009/365 | Project 365
+cover-img: https://live.staticflickr.com/65535/50818647126_c11b24d0da_h.jpg
+tags: [blog, 2021, project 365, 009/365]
+---
+Behold... some police activity alas in Foster City... need two backups apparently for a what appeared to be a routine stop.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50818647126_c11b24d0da_b.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/137008561_469866427721948_2576691943071858295_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=_U4n1UN1gYAAX_7U3Tw&tp=1&oh=3768e99c36fddbda06b00f11f21900f0&oe=602466E5">
+</p>
+<p class="post-img-wrap">
+  <img src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/136707457_400635584571945_1317643617812428991_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=2MakXzRpfCUAX8n8xCW&tp=1&oh=a31ba9aa2519ab00b76b9cd5d8527abb&oe=60255412">
+</p>
+<p class="post-img-wrap">
+  <img src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/136716957_879911136152632_2654703723559183607_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Y-nax0lLzbwAX_vAbr0&tp=1&oh=49338bd684f27f3fe1a20154c22f1ad1&oe=60239584">
+</p>
+<p class="post-img-wrap">
+  <img src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/136442262_434580304245369_6018356341136297197_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=wJNLwUpRCUEAX-D4Enq&tp=1&oh=f4f72f6f3f4714f90bb3497fd5b3dbd5&oe=6022A4E1">
+</p>
