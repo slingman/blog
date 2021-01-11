@@ -23,3 +23,12 @@ tags: [blog, 2021, project 365, 010/365]
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50823483481_018469597c_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50823484861_1f0206dc9f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50823580557_195f155a08_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50823491741_727b8894ce_h.jpg">
+</p>
