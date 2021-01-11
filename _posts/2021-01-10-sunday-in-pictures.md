@@ -46,5 +46,8 @@ Brunch, afternoon tea, family outing, and dinner was today...
   <img src="https://live.staticflickr.com/65535/50823491741_727b8894ce_h.jpg">
 </p>
 <p class="post-img-wrap">
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/d10YYq" title="PXL_20210111_015701848"><img src="https://live.staticflickr.com/31337/50823592607_fffb763d54_c.jpg" width="800" height="450" alt="PXL_20210111_015701848"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p>
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50822746783_0852f499cc_h.jpg">
 </p>
