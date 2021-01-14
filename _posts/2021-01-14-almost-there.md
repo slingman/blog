@@ -1,0 +1,16 @@
+---
+layout: post
+title: Almost there
+subtitle: 014/365 | Project 365
+cover-img: https://live.staticflickr.com/65535/50834212346_9d6a29f7f6_o.jpg
+tags: [blog, 2021, project 365, 014/365]
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50834212346_9d6a29f7f6_o.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50833477558_6d4b9e8a6a_o.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50701707371_8c069b28d8_h.jpg">
+</p>
