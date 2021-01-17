@@ -3,7 +3,7 @@ layout: post
 title: Sunday in pictures
 subtitle: 010/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50822739608_e38c177290_h.jpg
-tags: [blog, 2021, project 365, 010/365]
+tags: [blog, 2021, project 365, 010/365, weekend, sunday]
 ---
 Brunch, afternoon tea, family outing, and dinner was today... 
 <p class="post-img-wrap">
