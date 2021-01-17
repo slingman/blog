@@ -3,7 +3,7 @@ layout: post
 title: Saturday in pictures
 subtitle: 009/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50818640261_0f544264ce_h.jpg
-tags: [blog, 2021, project 365, 009/365]
+tags: [blog, 2021, project 365, 009/365, weekend, saturday]
 ---
 The day started chill... and we ended up in San Francisco to have dinner with mom.
 <p class="post-img-wrap">
