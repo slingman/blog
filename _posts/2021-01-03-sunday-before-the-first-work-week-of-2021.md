@@ -4,7 +4,7 @@ title: Sunday before first week of 2021
 subtitle: 003/365 | Project 365
 thumbnail-img: https://live.staticflickr.com/65535/50797601932_56a5c547cf_b.jpg
 share-img: https://live.staticflickr.com/65535/50797601932_56a5c547cf_t.jpg
-tags: [blog, 2021, project 365, 003/365]
+tags: [blog, 2021, project 365, 003/365, weekend, sunday]
 ---
 Dreading the Monday after this long two week break. It was a good rest, looking back though.
 
