@@ -32,12 +32,9 @@ Suburban hiking with our favorite peoples
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50847516782_56c7a70b8d_h.jpg">
 </p>
-Rest
+Rest and chill
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50847431341_d3d78e0dbe_b.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50847116313_cdaa51493b_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50846708428_24ba28f95d_h.jpg">
