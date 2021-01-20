@@ -5,7 +5,7 @@ subtitle: 019/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50852976903_07bfcd18e5_h.jpg
 tags: [blog, 2021, project 365, 019/365]
 ---
-It's been a super windy day, wind seem to have picked up from the night before, here are sorta the aftermath
+It's been a super windy day, the wind seem to have picked up overnight, here are sorta the aftermath - its really not that serious though.  Us Californians are a bit over-dramatic with the whole "inclimate" weather situation.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50852345698_6b6dea0892_h.jpg">
 </p>
