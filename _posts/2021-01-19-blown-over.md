@@ -22,3 +22,7 @@ Meanwhile, at home, Raiden is blown over by his assignments for the day... :P
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50854047481_3dd613585b_h.jpg">
 </p>
+Back to you, Bob! Let's quickly take a look at the footwear situation for the day... 
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50853362263_99d69001f6_h.jpg">
+</p>
