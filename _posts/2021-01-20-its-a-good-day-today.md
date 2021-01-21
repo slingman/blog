@@ -49,3 +49,10 @@ There were so many great pictures by the great photographers that had access to 
    Chang W. Lee/Pool/The New York Times/AP
  </div>
 </div>
+<p></p>
+<div class="post-img-wrap">
+ <img src="https://dynaimage.cdn.cnn.com/cnn/w_1600/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210120125518-20-biden-inauguration-unf.jpg">
+ <div class="watermark">
+  Andrew Harnik/Pool/AP
+ </div>
+</div>
