@@ -1,5 +1,6 @@
 .post-img-wrap {
   border:5px solid #eee;
+  position:relative;
 }
 
 .blog-tags a {
