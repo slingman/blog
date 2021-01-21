@@ -6,3 +6,11 @@
   border:1px solid #eee;
   padding:5px 10px;
 }
+
+.watermark {
+  position:absolute; 
+  color:#eee; 
+  bottom:24px; 
+  right:24px;
+  font-size:.8em;
+}
