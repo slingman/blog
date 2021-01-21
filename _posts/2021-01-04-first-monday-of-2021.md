@@ -35,7 +35,7 @@ Today has been... eventful...
 
 **5:00pm** - Work is not done by PG&E
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50801240023_427652e738_b.jpg">
+  <img src="https://live.staticflickr.com/65535/50801240023_61697abdd1_h.jpg">
 </p>
 
 **11:00pm** - PG&E still here, 3 trucks deep, straight up blasting country music. :P
