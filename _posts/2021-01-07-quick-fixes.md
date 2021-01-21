@@ -10,10 +10,10 @@ Since the pandemic and the quarantine, a routine needed to be established with t
 Today, we decided to try frozen ravioli from Trader Joe's...
 
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50810754798_a8753b8cf7_b.jpg">
+  <img src="https://live.staticflickr.com/65535/50810754798_1e0dfc41e6_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50813149547_08c63ed5ce_c.jpg">
+  <img src="https://live.staticflickr.com/65535/50813149547_a49c8554f0_h.jpg">
 </p>
 Still a bit amazed at how the tomato sauce is cubed like that!
 <p class="post-img-wrap">
