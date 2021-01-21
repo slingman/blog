@@ -22,9 +22,8 @@ Today has been... eventful...
 
 **10:30am** - Storm passing through
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50801291861_f7fab06e92_b.jpg">
+  <img src="https://live.staticflickr.com/65535/50801291861_4522de39a6_h.jpg">
 </p>
-
 **12:30pm** - Power restored
 
 **1:00pm** - Domino effect of the power outage affecting some Xfinity crap which means I lost my internet connection
