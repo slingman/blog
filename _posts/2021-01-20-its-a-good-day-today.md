@@ -63,3 +63,10 @@ There were so many great pictures by the great photographers that had access to 
   Patrick Semansky/Pool/AP
  </div>
 </div>
+<p></p>
+So to not stray away from the purpose of **Project 365**, here are some pics from today's shenanigans with the Ling's
+<p></p>
+Gnocchi for the kids for lunch... Another great find from our friends at **Trader Joe's**
+<div class="post-img-wrap">
+ <img src="https://live.staticflickr.com/65535/50857343236_511c94369a_h.jpg">
+</div>
