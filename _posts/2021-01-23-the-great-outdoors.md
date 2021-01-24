@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outdoors
+title: The great outdoors
 subtitle: 023/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50868492951_226193bd24_k.jpg
 tags: [blog, 2021, project 365, 023/365, outdoors, hiking, hike, weekend, saturday]
