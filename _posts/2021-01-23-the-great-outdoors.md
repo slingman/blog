@@ -10,6 +10,12 @@ Our Sunday hikes had to happen today, since it appears that the rain will be mov
   <img src="https://live.staticflickr.com/65535/50867786418_48e3fe0b11_o.jpg">
 </p>
 <p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50868598827_6c165b798e_k.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50868492951_226193bd24_k.jpg">
+</p>
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50868493041_babcfcc674_k.jpg">
 </p>
 <p class="post-img-wrap">
