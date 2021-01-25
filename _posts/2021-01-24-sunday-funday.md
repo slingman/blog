@@ -42,8 +42,12 @@ Then its heading into the city to hang with mom
   <img src="https://live.staticflickr.com/65535/50873111346_7adb42b641_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50873216462_e756b577e1_h.jpg">
+  <img src="https://live.staticflickr.com/65535/50873342717_2d17803c74_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50873342717_2d17803c74_h.jpg">
+  <img src="https://live.staticflickr.com/65535/50873112851_27c68ac36d_h.jpg">
+</p>
+Been fiending for some brikset for a few weeks now... so we went up the street and picked up a pound of brisket... 
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50873273182_4e72891d6f_o.jpg">
 </p>
