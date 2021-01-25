@@ -18,7 +18,7 @@ Somewhat an eventful Sunday today, started it off by a running session with Tiff
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50873212727_40702773ef_h.jpg">
 </p>
-Lotus wanted to make some passion mango jasmine tea... with Tiff's help
+Lotus wanted to make some passion mango jasmine tea... with Tiff's help, also using the fresh passion fruit from our friend Adrienne!
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50873214717_2341fa8d73_h.jpg">
 </p>
