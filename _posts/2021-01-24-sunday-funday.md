@@ -3,7 +3,7 @@ layout: post
 title: Sunday funday
 subtitle: 024/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50873211507_4851544af3_h.jpg
-tags: [blog, 2021, project 365, 024/365,run, san francisco, famiy]
+tags: [blog, 2021, project 365, 024/365,run, san francisco, famiy, weekend, sunday]
 ---
 Somewhat an eventful Sunday today, started it off by a running session with Tiff.... 
 <p class="post-img-wrap">
