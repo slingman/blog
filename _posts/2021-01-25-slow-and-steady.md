@@ -32,5 +32,8 @@ Apply optional bbq sauce and leave open and put back in the oven for **broiling*
 </p>
 Enjoy!
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50876856251_db076f2f88_o.jpg">
+  <img src="https://live.staticflickr.com/65535/50876326611_f40b97d526_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50876327151_f2675fa875_h.jpg">
 </p>
