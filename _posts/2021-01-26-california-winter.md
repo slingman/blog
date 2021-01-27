@@ -3,7 +3,7 @@ layout: post
 title: California winter
 subtitle: 026/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50876672967_81f0ee1420_h.jpg
-tags: [blog, 2021, project 365, 025/365, winter, california, deadstock coffee]
+tags: [blog, 2021, project 365, 026/365, winter, california, deadstock coffee, kids]
 ---
 Winter in California.... today got frosty... literally.
 <p class="post-img-wrap">
