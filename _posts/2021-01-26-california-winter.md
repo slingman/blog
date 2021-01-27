@@ -12,7 +12,7 @@ Winter in California.... today got frosty... literally.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50878663132_287769d9ee_h.jpg">
 </p>
-This coldness didn't keep me away the mail call from <a href="http://www.deadstockcoffee.com/" target=_new>Deadstock Coffee</a> though! Hailing from Portland, Oregon, they finally did a short run of shipments of their infamous Lebronald Palmer! Delicious!
+This coldness didn't stop me from drinking a bottle a mail call that <a href="http://www.deadstockcoffee.com/" target=_new>Deadstock Coffee</a> came through with though! Hailing from Portland, Oregon, they were finally able to do small run of shipments of their infamous Lebronald Palmer! Delicious!
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50878560191_2bb3c29b45_h.jpg">
 </p>
