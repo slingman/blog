@@ -7,5 +7,5 @@ tags: [blog, 2021, project 365, 025/365, deadstock]
 ---
 Deadstock coffee
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50875188158_c0978f4a06_h.jpg">
+  <img src="https://live.staticflickr.com/65535/50876566766_3db35ca420_h.jpg">
 </p>
