@@ -2,7 +2,7 @@
 layout: post
 title: I can see clearly now
 subtitle: 028/365 | Project 365
-cover-img: https://live.staticflickr.com/65535/50883941721_abaf5fbc17_h.jpg
+cover-img: https://live.staticflickr.com/65535/50886681827_bdca3735fe_h.jpg
 tags: [blog, 2021, project 365, 028/365, winter, california, rain]
 ---
 Weird ass weather.
