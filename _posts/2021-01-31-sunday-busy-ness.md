@@ -43,7 +43,7 @@ Tacos.
 </p>
 Livermore outlets.
 <p class="post-img-wrap">
-  <img src="hhttps://live.staticflickr.com/65535/50895865713_b1bdeda6da_h.jpg">
+  <img src="https://live.staticflickr.com/65535/50895865713_b1bdeda6da_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50896697742_47ddba0239_h.jpg">
