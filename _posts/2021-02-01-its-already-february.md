@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's already Feburary?
+title: It's already February?
 subtitle: 032/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50899260787_bb4414a16a_h.jpg
 tags: [blog, 2021, project 365, 032/365]
