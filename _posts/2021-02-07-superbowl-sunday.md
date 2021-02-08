@@ -28,3 +28,7 @@ Some pitstop at outlets to return some things and lunch.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50920394387_3357df1a1a_h.jpg">
 </p>
+And then... dinner with friends to catch Super Bowl.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50921344232_412c456cfb_h.jpg">
+</p>
