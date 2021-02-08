@@ -5,7 +5,7 @@ subtitle: 038/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50919494663_3bde5bf536_k.jpg
 tags: [blog, 2021, project 365, 038/365, sunday, superbowl]
 ---
-Today we drove back from the snow and went to a friend's to watch Superbowl. Here are some pictures from the day...
+Checkout at 11 from the AirBnB, but before that some breakfast and pictures.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50919357751_7f6f131190_k.jpg">
 </p>
@@ -13,5 +13,18 @@ Today we drove back from the snow and went to a friend's to watch Superbowl. Her
   <img src="https://live.staticflickr.com/65535/50919493908_02dde8eca5_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50920187191_09bbec98a1_h.jpg">
+  <img src="https://live.staticflickr.com/65535/50919525653_dfc43b7039_h.jpg">
+</p>
+Some pitstop at outlets to return some things and lunch.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50919526228_6f9a067f16_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50920393622_e1b7bba341_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50920263701_35ed52f81a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50920394387_3357df1a1a_h.jpg">
 </p>
