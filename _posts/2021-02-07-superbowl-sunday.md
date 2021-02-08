@@ -2,7 +2,7 @@
 layout: post
 title: Superbowl Sunday
 subtitle: 038/365 | Project 365
-cover-img: https://live.staticflickr.com/65535/50919494663_3bde5bf536_k.jpg
+cover-img: https://live.staticflickr.com/65535/50921320436_4e07919734_o.jpg
 tags: [blog, 2021, project 365, 038/365, sunday, superbowl]
 ---
 Checkout at 11 from the AirBnB, but before that some breakfast and pictures.
