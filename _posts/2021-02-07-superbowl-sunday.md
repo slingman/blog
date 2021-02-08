@@ -15,7 +15,9 @@ Checkout at 11 from the AirBnB, but before that some breakfast and pictures.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50919525653_dfc43b7039_h.jpg">
 </p>
-Some pitstop at outlets to return some things and lunch.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50917026767_f2ab959d5d_h.jpg">
+</p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50919526228_6f9a067f16_h.jpg">
 </p>
