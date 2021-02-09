@@ -13,8 +13,11 @@ My daughter turned 12 today... but first... coffee!
 </p>
 Back to regular scheduled programming of pics of the birthday girl with the cake
 <p class="post-img-wrap">
-  <img src="hhttps://live.staticflickr.com/65535/50924658122_3f387ff445_h.jpg">
+  <img src="https://live.staticflickr.com/65535/50924658122_3f387ff445_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50924658287_8e2df65e2b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50923847048_696d175eae_h.jpg">
 </p>
