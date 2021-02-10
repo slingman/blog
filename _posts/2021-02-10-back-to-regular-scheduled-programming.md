@@ -15,3 +15,6 @@ Back to regular scheduled programs, today in pictures.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50928009602_f1aaedadac_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50928644311_b3d5a22d54_h.jpg">
+</p>
