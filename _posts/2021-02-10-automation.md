@@ -2,7 +2,7 @@
 layout: post
 title: Automation
 subtitle: 041/365 | Project 365
-cover-img: https://live.staticflickr.com/65535/50916934353_73e20403d0_c.jpg
+cover-img: https://live.staticflickr.com/65535/50916934353_2031859b90_k.jpg
 tags: [blog, 2021, project 365, 041/365]
 ---
 Still amazes me how Google photos will automatically stitch a series of pictures together to make a gif.
@@ -24,5 +24,8 @@ In the world of relying on your phone for pictures and what not, I do miss my DS
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50921322196_4aaeb9bdb0_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50921324616_c56e58dc4d_h.jpg">
 </p>
 Its hard to beat that crispyness.
