@@ -3,7 +3,7 @@ layout: post
 title: Automation
 subtitle: 041/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50916934353_2031859b90_k.jpg
-tags: [blog, 2021, project 365, 041/365, photography, canon, pixel]
+tags: [blog, 2021, project 365, 041/365, photography, canon, pixel, google photos]
 ---
 Still amazes me how Google photos will automatically stitch a series of pictures together to make a gif.
 <p class="post-img-wrap">
