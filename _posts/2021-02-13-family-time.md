@@ -26,3 +26,9 @@ B Pattiserie pre order of Lunar New Year special... only items that were not sol
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50940819872_0d87da4262_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50940714796_8e73e34018_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50940821162_efdcd1c1ff_h.jpg">
+</p>
