@@ -24,5 +24,5 @@ Had to go walk that off..
   <img src="https://live.staticflickr.com/65535/50944770491_5852ff4659_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/50944874732_441ef87543_h.jpgg">
+  <img src="https://live.staticflickr.com/65535/50944874732_441ef87543_h.jpg">
 </p>
