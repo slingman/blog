@@ -29,3 +29,6 @@ Had to go walk that off..
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50944776026_23237be4ca_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50944776026_23237be4ca_h.jpg">
+</p>
