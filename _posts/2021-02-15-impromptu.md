@@ -3,6 +3,7 @@ layout: post
 title: Impromptu
 subtitle: 046/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50948204703_7057a2f56c_k.jpg
+share-img: https://live.staticflickr.com/65535/50948084962_ca7dd90b53_h.jpg
 tags: [blog, 2021, project 365, 046/365, kids, art]
 ---
 Day off today with an impromptu art session with the kids. Ain't gonna lie, it was kinda nice.
