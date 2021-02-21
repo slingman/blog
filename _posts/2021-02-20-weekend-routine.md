@@ -15,3 +15,10 @@ Hanging out at mom's one day of every weekend and have a meal has become the nor
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50964528382_77f344360e_h.jpg">
 </p>
+In other news... 
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50963757621_793fd18d68_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50963757071_a845e2d473_h.jpg">
+</p>
