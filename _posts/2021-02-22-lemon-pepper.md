@@ -9,7 +9,7 @@ Improvised some lemon pepper sauce for them wings tonight... not bad.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50971606021_616b373cef_h.jpg">
 </p>
-I think they liked it...
+I think they liked it... though that wing eating skill needs much improvement.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50971610316_6093073b45_h.jpg">
 </p>
