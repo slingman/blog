@@ -5,6 +5,11 @@ subtitle: 052/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50967913472_d1cdc66590_h.jpg
 tags: [blog, 2021, project 365, 052/365, weekend, sunday, dimsum, san francisco]
 ---
+<style>
+  .intro-header.big-img {
+    background-position:bottom }
+</style>
+
 Hanging with our extended family today doing our favorite activity - eating. 
 
 Bombass dimsum is whats for lunch.
