@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evening outing
-subtitle: 055/365 | Project 365
+subtitle: 056/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50982161893_0b7b2f536f_h.jpg
-tags: [blog, 2021, project 365, 055/365, sunset, evening outing, outing]
+tags: [blog, 2021, project 365, 056/365, sunset, evening outing, outing]
 ---
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50982161893_0b7b2f536f_h.jpg">
