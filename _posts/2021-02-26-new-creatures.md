@@ -12,3 +12,6 @@ tags: [blog, 2021, project 365, 057/365, aquarium]
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/50987271853_00c185a216_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50984668247_6e05f6b2b1_o.jpg">
+</p>
