@@ -12,7 +12,7 @@ tags: [blog, 2021, project 365, 060/365]
 I am glad that we are going through this pandemic in this city... wouldn't want it any other way.
 <p class="post-img-wrap">
  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/0j1735" title="PXL_20210303_021601386">
-   <img src="https://live.staticflickr.com/31337/50998599302_56720bc035_h.jpg" width="1600" height="900" alt="PXL_20210303_021601386"></a>
+   <img src="https://live.staticflickr.com/31337/50998599302_56720bc035_h.jpg" width="100%" alt="PXL_20210303_021601386"></a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 <p class="post-img-wrap">
