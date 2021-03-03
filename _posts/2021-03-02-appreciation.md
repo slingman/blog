@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Appreciation
-subtitle: 060/365 | Project 365
+subtitle: 061/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/50997765433_32959e014d_h.jpg
-tags: [blog, 2021, project 365, 060/365]
+tags: [blog, 2021, project 365, 061/365]
 ---
 <style>
   .intro-header.big-img {
