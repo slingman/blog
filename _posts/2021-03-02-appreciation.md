@@ -15,3 +15,6 @@ I am glad that we are going through this pandemic in this city... wouldn't want 
    <img src="https://live.staticflickr.com/31337/50998599302_56720bc035_h.jpg" width="1600" height="900" alt="PXL_20210303_021601386"></a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50998478751_f1d9ecdade_h.jpg">
+</p>
