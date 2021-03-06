@@ -9,6 +9,7 @@ tags: [blog, 2021, project 365, 063/365, food, sneakers]
   .intro-header.big-img {
     background-position:top }
 </style>
+Couple edits I did with them croissants from Costco... 
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51004731371_8f859af52d_h.jpg">
 </p>
