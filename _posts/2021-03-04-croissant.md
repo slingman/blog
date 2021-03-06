@@ -7,10 +7,13 @@ tags: [blog, 2021, project 365, 063/365, food, sneakers]
 ---
 <style>
   .intro-header.big-img {
-    background-position:center }
+    background-position:bottom }
 </style>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51004731371_8f859af52d_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51004016298_9332fb2983_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51004717211_6e9034c42a_h.jpg">
