@@ -18,3 +18,7 @@ tags: [blog, 2021, project 365, 063/365, food, sneakers]
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51004015353_0500e51430_h.jpg">
 </p>
+that croissant vibe on these though...
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51004030823_3d545b013d_h.jpg">
+</p>
