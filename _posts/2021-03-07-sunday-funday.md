@@ -7,7 +7,7 @@ tags: [blog, 2021, project 365, 066/365, sunday, weekend]
 ---
 <style>
   .intro-header.big-img {
-    background-position:top }
+    background-position:center }
 </style>
 Another Sunday funday in the books.
 <p class="post-img-wrap">
