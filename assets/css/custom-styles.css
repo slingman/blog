@@ -3,10 +3,14 @@
   position:relative;
 }
 
+.blog-tags {
+  font-size:0.75rem;
+}
+
 .blog-tags a {
   border:1px solid #eee;
   padding:5px 10px;
-  font-size:0.75rem;
+  line-heightL:25px;
 }
 
 .watermark {
