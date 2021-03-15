@@ -6,15 +6,8 @@ cover-img: https://live.staticflickr.com/65535/51037984921_fb0f7c3b3c_h.jpg
 tags: [blog, 2021, project 365, 073/365, sunday, time change, food]
 ---
 <style>
-  body {
-    background:#000;
-    color:#fff;
-  }
   .intro-header.big-img {
     background-position:center 
-  }
-  .blog-tags a {
-    color:#fff;
   }
 </style>
 Time chnage meant a lazy day... and whole lotta slurping today...
