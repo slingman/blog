@@ -61,3 +61,5 @@ Still in awe of the quality of the pics that came from the Canon 5D MKII with th
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51037775466_1d2cf89a60_h.jpg">
 </p>
+---
+Also I added comments support to each of the blog posts. And the dark mode are inlined CSS that I have added to specific blog posts that I see fit. Hope y'all like it.
