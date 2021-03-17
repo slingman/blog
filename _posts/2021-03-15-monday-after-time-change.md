@@ -6,8 +6,15 @@ cover-img: https://live.staticflickr.com/65535/51037871467_471637085c_h.jpg
 tags: [blog, 2021, project 365, 074/365, monday, sneakers, family, zoo]
 ---
 <style>
+  body {
+    background:#000;
+    color:#fff;
+  }
   .intro-header.big-img {
     background-position:center 
+  }
+  .blog-tags a {
+    color:#fff;
   }
 </style>
 Geez... The Monday after the time change. I don't remember it being this difficult in the previous years... maybe something to do with the pandemic? Hmmm.
