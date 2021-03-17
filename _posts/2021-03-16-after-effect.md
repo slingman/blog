@@ -7,7 +7,7 @@ tags: [blog, 2021, project 365, 075/365]
 ---
 <style>
   .intro-header.big-img {
-    background-position:top 
+    background-position:bottom 
   }
 </style>
 Stll sluggish today, but definitely feeling a bit more productive than yesterday.
