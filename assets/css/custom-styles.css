@@ -4,13 +4,13 @@
 }
 
 .blog-tags {
-  font-size:0.75rem;
+  font-size:0.70rem;
+  line-height: 32px;
 }
 
 .blog-tags a {
   border:1px solid #eee;
   padding:5px 10px;
-  line-heightL:25px;
 }
 
 .watermark {
