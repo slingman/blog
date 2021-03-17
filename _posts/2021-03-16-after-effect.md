@@ -1,9 +1,9 @@
 ---
 layout: post
 title: After effect
-subtitle: 076/365 | Project 365
+subtitle: 075/365 | Project 365
 cover-img: https://live.staticflickr.com/65535/51044392316_7b7ed03bcc_h.jpg
-tags: [blog, 2021, project 365, 076/365]
+tags: [blog, 2021, project 365, 075/365]
 ---
 <style>
   .intro-header.big-img {
