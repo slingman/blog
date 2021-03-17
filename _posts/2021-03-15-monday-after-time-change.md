@@ -17,10 +17,19 @@ Rocked these today.
   <img src="https://live.staticflickr.com/65535/51041907606_a6af2d79f3_h.jpg">
 </p>
 ---
-Still in awe of the quality of the pics that came from the Canon 5D MKII with 72-200mm, not just of them animals, but my crew too... enjoy.
+Still in awe of the quality of the pics that came from the Canon 5D MKII with the 72-200mm, not just of them animals, but my crew too... makes me wanna hit up the other zoo in the bay area.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51037871467_471637085c_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51037843992_21158cad44_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51037016533_eee1cac47e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51037748511_dd111e8b48_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51037868457_975c7b856d_h.jpg">
 </p>
