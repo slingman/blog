@@ -1,4 +1,4 @@
-.container-* > .blog-post {
+[class*="container-"] > .blog-post {
   background:#000;
 }
 
