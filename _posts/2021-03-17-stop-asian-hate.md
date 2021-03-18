@@ -19,5 +19,5 @@ tags: [blog, 2021, project 365, 076/365, stopasianhate]
 </style>
 It was supposed to be some sorta green things to be posted today... but instead I am out here doing this bullshit.
 <p class="post-img-wrap">
-  <img src="">
+  <img src="../assets/img/stop-asian-hate.jpg">
 </p>
