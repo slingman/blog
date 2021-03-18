@@ -2,7 +2,6 @@
 layout: post
 title: #STOPASIANHATE
 subtitle: 076/365 | Project 365
-cover-img: https://slingman.github.io/blog/assets/img/stop-asian-hate.jpg
 tags: [blog, 2021, project 365, 076/365, stopasianhate]
 ---
 <style>
@@ -17,7 +16,7 @@ tags: [blog, 2021, project 365, 076/365, stopasianhate]
     color:#fff;
   }
 </style>
-It was supposed to be some sorta green things to be posted today... but instead I am out here doing this bullshit.
+It was supposed to be some sorta green things to be posted today... but instead I am out here doing this bullshit. Why? Cuz you fuckers don't know how to act.
 <p class="post-img-wrap">
   <img src="https://slingman.github.io/blog/assets/img/stop-asian-hate.jpg">
 </p>
