@@ -14,7 +14,7 @@ tags: [blog, 2021, project 365, 076/365, stopasianhate]
     background-position:center 
   }
   .blog-tags a {
-    color:#fff;
+    color:#fff; 
   }
 </style>
 It was supposed to be some sorta green things to be posted today... but instead I am out here doing this bullshit. Why? Cuz you fuckers don't know how to act.
