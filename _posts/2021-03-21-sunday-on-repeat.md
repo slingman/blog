@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sunday on repeat
-cover-img: https://live.staticflickr.com/65535/51060913623_5a15783fd2_h.jpg
+cover-img: https://live.staticflickr.com/65535/51061693147_c1405fd1d1_h.jpg
 subtitle: 080/365 | Project 365
 tags: [blog, 2021, project 365, 080/365, weekend, sunday, hike, picnic]
 ---
@@ -30,7 +30,13 @@ Had the same game plan as a couple of sundays ago. Breakfast &gt; Hike &gt; Lunc
   <img src="https://live.staticflickr.com/65535/51061711217_6e282af1ea_h.jpg">
 </p>
 <p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51060913623_5a15783fd2_h.jpg">
+</p>
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51061631536_6481717432_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51061693417_70f3841271_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51061631431_34baf81b82_h.jpg">
