@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fat Mondays
-cover-img: https://live.staticflickr.com/65535/51062950636_1875843a19_h.jpg
+cover-img: https://live.staticflickr.com/65535/51065354337_c9620e7b51_h.jpg
 subtitle: 081/365 | Project 365
 tags: [blog, 2021, project 365, 081/365, monday]
 ---
