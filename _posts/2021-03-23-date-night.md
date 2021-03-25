@@ -6,8 +6,15 @@ subtitle: 082/365 | Project 365
 tags: [blog, 2021, project 365, 082/365, chocolate, wine, date night]
 ---
 <style>
+  body {
+    background:#000;
+    color:#fff;
+  }
   .intro-header.big-img {
-    background-position:top
+    background-position:center 
+  }
+  .blog-tags a {
+    color:#fff;
   }
 </style>
 After the kids went to bed, it was time for some wine tasting paired with some bomb-ass chocolates
