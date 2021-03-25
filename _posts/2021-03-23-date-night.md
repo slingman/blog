@@ -10,10 +10,16 @@ tags: [blog, 2021, project 365, 082/365, chocolate, wine, date night]
     background-position:center
   }
 </style>
-Wine pairing with some bomb chocolates
+After the kids went to bed, it was time for some wine tasting paired with some bomb-ass chocolates
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51067952978_13ca9c08dc_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51068750542_092815dabf_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50999473560_e7b602cfac_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/50999473980_e57b7eadf6_h.jpg">
 </p>
