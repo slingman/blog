@@ -17,11 +17,17 @@ tags: [blog, 2021, project 365, 085/365, sneakers, air max day, air max]
     color:#fff;
   }
 </style>
-Its all about them air max's today supposedly. #sneakerheadproblems
+Its all about them air max's today. #sneakerheadproblems 
 
-All the 93s have since crumbled. :'(
+Obligatory post about some Nike Air Max. All the 93s have since crumbled. :'(
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/4016/4708845139_0fbb35c2e5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/4065/4708844045_60488b502c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/1281/4708643416_a811aeb2ce_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51073800551_4ea7ad3265_h.jpg">
