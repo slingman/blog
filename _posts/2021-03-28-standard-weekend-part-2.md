@@ -12,7 +12,7 @@ tags: [blog, 2021, project 365, 087/365, weekend, sunday, food, sneakers]
 </style>
 What a gorgeous day today was in the bay area.
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51080681881_984e335db6_b.jpg">
+  <img src="https://live.staticflickr.com/65535/51079781641_712ce4d3f7_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51079854367_210286a143_h.jpg">
