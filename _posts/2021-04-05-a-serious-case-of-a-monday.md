@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A serious case of a Monday
-cover-img: https://live.staticflickr.com/65535/51098524435_8bb3628b61_h.jpg
+cover-img: https://live.staticflickr.com/65535/51098527760_28ed05d913_h.jpg
 subtitle: 095/365 | Project 365
 tags: [blog, 2021, project 365, 095/365, monday]
 ---
