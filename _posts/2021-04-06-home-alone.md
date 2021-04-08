@@ -21,5 +21,5 @@ Leftovers spaghetti that Tiff made. Yums.
   <img src="https://live.staticflickr.com/65535/51099544678_5016f82037_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="ttps://live.staticflickr.com/65535/51099003726_b1162a74ed_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51099003726_b1162a74ed_h.jpg">
 </p>
