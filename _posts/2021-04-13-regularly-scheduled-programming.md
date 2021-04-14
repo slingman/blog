@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Regular scheduled programming
+title: Regularly scheduled programming
 cover-img: https://live.staticflickr.com/65535/51114614499_de648ff67f_h.jpg
 subtitle: 103/365 | Project 365
 tags: [blog, 2021, project 365, 103/365, kids]
