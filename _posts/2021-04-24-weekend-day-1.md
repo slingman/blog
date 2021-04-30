@@ -3,7 +3,7 @@ layout: post
 title: Weekend day 1
 cover-img: https://live.staticflickr.com/65535/51137268184_9cdae66fab_h.jpg
 subtitle: 114/365 | Project 365
-tags: [blog, 2021, project 365, 114/365, weekend, vaccine, saturday]
+tags: [blog, 2021, project 365, 114/365, weekend, vaccine, saturday, food, sneakers]
 ---
 <style>
   .intro-header.big-img {
