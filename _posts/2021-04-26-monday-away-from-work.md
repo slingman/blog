@@ -2,8 +2,8 @@
 layout: post
 title: Monday away from work
 cover-img: https://live.staticflickr.com/65535/51146805028_55cc6a60ae_h.jpg
-subtitle: 115/365 | Project 365
-tags: [blog, 2021, project 365, 115/365, day off, monday]
+subtitle: 116/365 | Project 365
+tags: [blog, 2021, project 365, 116/365, day off, monday]
 ---
 <style>
   .intro-header.big-img {
