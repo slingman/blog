@@ -44,3 +44,6 @@ This dude turns 8 today.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51148737915_0a69d644e7_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51148738165_826ee7fec3_h.jpg">
+</p>
