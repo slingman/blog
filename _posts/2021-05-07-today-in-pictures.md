@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flames
+title: Today in pictures
 cover-img: https://live.staticflickr.com/65535/51157934517_d679073800_h.jpg
 subtitle: 127/365 | Project 365
 tags: [blog, 2021, project 365, 127/365, neighborhood, kids, neighbors]
