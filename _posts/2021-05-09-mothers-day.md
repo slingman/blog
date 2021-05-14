@@ -30,5 +30,8 @@ Cards from all of us...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51168825093_64f682dbfc_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51167923897_b09182dff2_h.jpg">
+</p>
 ---
 Was able to hit up Korean BBQ, felt a bit weird sitting inside and all... but it was so gawd damn good.
