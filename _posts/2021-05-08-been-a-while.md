@@ -17,9 +17,11 @@ tags: [blog, 2021, project 365, 128/365, food, kids, friends]
     color:#fff;
   }
 </style>
+
 Today was a good day.
 
 First stop - <a href="http://www.taiwanbento.us/" target="_new">Taiwan Bento</a> to support the #stopasianhate movement.
+
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51167572250_5c00bfd39a_h.jpg">
 </p>
@@ -27,7 +29,7 @@ First stop - <a href="http://www.taiwanbento.us/" target="_new">Taiwan Bento</a>
   <img src="https://live.staticflickr.com/65535/51166477171_0f59b4fe47_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src=https://live.staticflickr.com/65535/51166477011_c294379bac_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51166477011_c294379bac_h.jpg">
 </p>
 <p class="post-img-wrap">                                                                            
   <img src="https://live.staticflickr.com/65535/51167247229_0b68642d81_h.jpg">
@@ -64,4 +66,15 @@ First stop - <a href="http://www.taiwanbento.us/" target="_new">Taiwan Bento</a>
 </p>
 ---
 And then onto Cupertino to meet up friends we haven't hung out together in person for over a year
-                                                                             
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51176564334_f8115c74c2_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51167256294_20ff35ef44_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51165813452_d1eea951ef_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51165814302_21219a681c_h.jpg">
+</p>
