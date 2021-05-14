@@ -62,3 +62,6 @@ First stop - <a href="http://www.taiwanbento.us/" target="_new">Taiwan Bento</a>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51167252864_17a303f8b8_h.jpg">
 </p>
+---
+And then onto Cupertino to meet up friends we haven't hung out together in person for over a year
+                                                                             
