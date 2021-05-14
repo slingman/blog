@@ -11,7 +11,7 @@ tags: [blog, 2021, project 365, 129/365, food, family]
     color:#fff;
   }
   .intro-header.big-img {
-    background-position:center 
+    background-position:bottom 
   }
   .blog-tags a {
     color:#fff;
