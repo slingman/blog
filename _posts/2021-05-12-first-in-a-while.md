@@ -27,7 +27,7 @@ Raiden cut his hair short, he was not happy camper and a bit sad to lose all tha
   <img src="https://live.staticflickr.com/65535/51175942108_f9d7c1da2e_h.jpg">
 </p>
 ---
-Back at San Mateo Prime to celebrate Ines's birthday. First time in a long time!
+Back at San Mateo Prime to celebrate Ines birthday. First time in a long time!
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51175720486_c4f91e566d_h.jpg">
 </p>
