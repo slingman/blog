@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: First in a long time
 cover-img: https://live.staticflickr.com/65535/51176809515_0510a96d75_h.jpg
