@@ -23,7 +23,7 @@ Week has been long.
 </p>
 ---
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51177825933_14bf3e9859_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51177607906_4d82795207_h.jpg">
 </p>
 ---
 <p class="post-img-wrap">
