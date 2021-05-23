@@ -47,3 +47,6 @@ Quick outing.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51189580605_e03a0b29ef_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51188739493_ff4bd2fce8_h.jpg">
+</p>
