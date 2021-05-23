@@ -50,3 +50,6 @@ Quick outing.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51188739493_ff4bd2fce8_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51189636765_a53ff4a21d_h.jpg">
+</p>
