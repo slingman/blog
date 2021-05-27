@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sunday chill
-cover-img: https://live.staticflickr.com/65535/51198963714_e65068efbc_h.jpg
+cover-img: https://live.staticflickr.com/65535/51199472385_37b1394751_h.jpg
 subtitle: 143/365 | Project 365
-tags: [blog, 2021, project 365, 143/365, food]
+tags: [blog, 2021, project 365, 143/365, food, weekend, sunday, friends]
 ---
 <style>
   body {
