@@ -3,7 +3,7 @@ layout: post
 title: Second day
 cover-img: https://live.staticflickr.com/65535/51207224405_1c8de1542d_h.jpg
 subtitle: 145/365 | Project 365
-tags: [blog, 2021, project 365, 145/365, food, park]
+tags: [blog, 2021, project 365, 145/365, food, park, kids]
 ---
 <style>
   body {
