@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kick off long weekend
+title: Kick off the long weekend
 cover-img: https://live.staticflickr.com/65535/51209853096_89030e03f9_h.jpg
 subtitle: 148/365 | Project 365
 tags: [blog, 2021, project 365, 148/365, park, kids]
@@ -35,4 +35,7 @@ Park.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51209853096_89030e03f9_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51209140072_1f6a50f591_h.jpg">
 </p>
