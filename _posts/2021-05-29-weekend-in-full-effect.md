@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekend in full effect
-cover-img: https://live.staticflickr.com/65535/51215601520_7a22b8b98c_h.jpg
+cover-img: https://live.staticflickr.com/65535/51214752388_17c99a3dd7_h.jpg
 subtitle: 149/365 | Project 365
 tags: [blog, 2021, project 365, 149/365, weekend, saturday]
 ---
