@@ -30,5 +30,5 @@ tags: [blog, 2021, project 365, 152/365]
   <img src="https://live.staticflickr.com/65535/51221180129_c0a801ccbf_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51221486435_959c31e1e3_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51221179534_0064c58e1a_h.jpg">
 </p>
