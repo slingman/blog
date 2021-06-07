@@ -2,8 +2,8 @@
 layout: post
 title: Weekend is here
 cover-img: https://live.staticflickr.com/65535/51229682685_4354fb2194_h.jpg
-subtitle: 157/365 | Project 365
-tags: [blog, 2021, project 365, 157/365, weekend, saturday, food]
+subtitle: 156/365 | Project 365
+tags: [blog, 2021, project 365, 156/365, weekend, saturday, food]
 ---
 <style>
   body {
@@ -24,7 +24,7 @@ tags: [blog, 2021, project 365, 157/365, weekend, saturday, food]
   <img src="https://live.staticflickr.com/65535/51229578365_b7708ad1f1_h.jpg">
 </p>
 ---
-Backhaus. Passion fruit kouign amann.
+<a href="https://backhausbread.com/" target="new">Backhaus</a>. Passion fruit kouign amann.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51229277249_df0a9188a9_h.jpg">
 </p>
@@ -35,7 +35,7 @@ Backhaus. Passion fruit kouign amann.
   <img src="https://live.staticflickr.com/65535/51228830083_2ec3cec440_h.jpg">
 </p>
 ---
-Keith's.
+<a href="https://www.keithschickennwaffles.com/" target="new">Keith's</a>.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51229682685_4354fb2194_h.jpg">
 </p>
