@@ -17,7 +17,6 @@ tags: [blog, 2021, project 365, 152/365]
     color:#fff;
   }
 </style>
-The immersive Vincent van Gogh exhibit in SF.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51219692030_5f74bf47d3_h.jpg">
 </p>
