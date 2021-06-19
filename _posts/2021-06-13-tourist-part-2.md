@@ -33,9 +33,6 @@ Round 2 of touring San Francisco.
   <img src="https://live.staticflickr.com/65535/51244883541_d5ea275d9f_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51244883541_d5ea275d9f_h.jpg">
-</p>
-<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51245084923_18b67a6b68_h.jpg">
 </p>
 <p class="post-img-wrap">
@@ -66,4 +63,13 @@ Round 2 of touring San Francisco.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51244623377_efba9290fc_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51246097149_69e5d88117_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51245335441_2053611f9c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51244624507_d058bac92a_h.jpg">
 </p>
