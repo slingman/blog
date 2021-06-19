@@ -17,7 +17,7 @@ tags: [blog, 2021, project 365, 163/365, weekend, food, evvia]
     color:#fff;
   }
 </style>
-One more pair came in today. Was looking forward to this one. CLOTS CHA.
+Celebrating an early father's day meal along with our favorite extended family.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51243514870_aa5261fafb_h.jpg">
 </p>
@@ -58,10 +58,20 @@ One more pair came in today. Was looking forward to this one. CLOTS CHA.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51242032227_856073c50e_h.jpg">
 </p>
+---
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51243996870_b9ab038bfe_h.jpg">
 </p>
 ---
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51243471623_1013a8f7ad_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51244328260_00984ae3ec_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51242558657_79659f862b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51243472288_735973b908_h.jpg">
 </p>
