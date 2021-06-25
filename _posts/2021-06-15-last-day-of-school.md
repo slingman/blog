@@ -27,6 +27,7 @@ Lunch. From H-Mart.
   <img src="https://live.staticflickr.com/65535/51250426035_af23a1aea7_h.jpg">
 </p>
 ---
+Last day of school acitivities.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51249166322_ac3858af85_h.jpg">
 </p>
@@ -40,6 +41,7 @@ Lunch. From H-Mart.
   <img src="https://live.staticflickr.com/65535/51249167082_67b21b580c_h.jpg">
 </p>
 ---
+Ice cream celebrations.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51252012195_ae0e8a2b9a_h.jpg">
 </p>
