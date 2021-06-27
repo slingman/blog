@@ -24,7 +24,7 @@ tags: [blog, 2021, project 365, 177/365, weekend, saturday, hiking]
   <img src="https://live.staticflickr.com/65535/51274012740_274a93101c_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51273712289_815f8aea50_h.jpgs">
+  <img src="https://live.staticflickr.com/65535/51273712289_815f8aea50_h.jpg">
 </p>
 ---
 <p class="post-img-wrap">
