@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaca from vaca
-cover-img: https://live.staticflickr.com/65535/51262061295_5482629998_h.jpg
+cover-img: https://live.staticflickr.com/65535/51263887239_4b232e6dd1_h.jpg
 subtitle: 172/365 | Project 365
 tags: [blog, 2021, project 365, 172/365]
 ---
@@ -29,6 +29,7 @@ Heading to Camp Grandma.
   <img src="https://live.staticflickr.com/65535/51263142956_c25b7627fa_h.jpg">
 </p>
 ---
+Took a walk.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51263886839_e7be606e1a_h.jpg">
 </p>
