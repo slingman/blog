@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekend is here
-cover-img: https://live.staticflickr.com/65535/51269508576_2cf9fe027d_h.jpg
+cover-img: https://live.staticflickr.com/65535/51273821189_7c73e0d2d4_h.jpg
 subtitle: 177/365 | Project 365
 tags: [blog, 2021, project 365, 177/365, weekend, saturday, hiking]
 ---
