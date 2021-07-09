@@ -17,7 +17,7 @@ tags: [blog, 2021, project 365, 184/365, food]
     color:#fff;
   }
 </style>
-**Old Taro** in Fremont. So good. So legit.
+**Old Taro** in Fremont. So good. So legit. So Formosa.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51289211049_691dea80b3_h.jpg">
 </p>
