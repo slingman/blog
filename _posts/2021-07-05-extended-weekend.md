@@ -3,7 +3,7 @@ layout: post
 title: Extended weekend
 cover-img: https://live.staticflickr.com/65535/51291948532_28d48bb991_h.jpg
 subtitle: 186/365 | Project 365
-tags: [blog, 2021, project 365, 186/365, food]
+tags: [blog, 2021, project 365, 186/365, food, friends]
 ---
 <style>
   body {
@@ -51,5 +51,19 @@ More grillin' - Korean style
   <img src="https://live.staticflickr.com/65535/51293020446_69a292002c_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51293020446_69a292002c_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51292274227_968176b712_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51293021016_26a10df477_h.jpg">
+</p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51294025200_8413068559_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51293738859_c6105a12ee_h.jpg">
+</p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51293199248_d3d161e44c_h.jpg">
 </p>
