@@ -11,7 +11,7 @@ tags: [blog, 2021, project 365, 191/365, food, sneakers]
     color:#fff;
   }
   .intro-header.big-img {
-    background-position:bottom; 
+    background-position:center; 
   }
   .blog-tags a {
     color:#fff;
