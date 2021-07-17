@@ -32,4 +32,14 @@ tags: [blog, 2021, project 365, 192/365, food]
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51307050260_ba1bc188e7_h.jpg">
 </p>
-[url=https://www.flickr.com/gp/sling_flickr/1994Z5][img][/img][/url][url=https://www.flickr.com/gp/sling_flickr/1994Z5]PXL_20210711_193330938.PORTRAIT[/url] by [url=https://www.flickr.com/photos/sling_flickr/]Steve Ling[/url], on Flickr
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51306763729_a6afdcf8fd_h.jpg">
+</p>
+---
+Why are ppl like this?
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51306044071_f84cbd3df6_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51306763714_3222b12adc_h.jpg">
+</p>
