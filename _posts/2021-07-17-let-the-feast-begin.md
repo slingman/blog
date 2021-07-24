@@ -11,7 +11,7 @@ tags: [blog, 2021, project 365, 19/365, family, food]
     color:#fff;
   }
   .intro-header.big-img {
-    background-position:center; 
+    background-position:bottom; 
   }
   .blog-tags a {
     color:#fff;
@@ -31,4 +31,39 @@ Meet Fresh.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51317252067_ed3da7d05e_h.jpg">
+</p>
+---
+Stix.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51317987421_a1407075d0_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51317987586_b79ef518b5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51318195513_23d9142f7e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51317988021_ac935f0209_h.jpg">
+</p>
+---
+Showing them around the city.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51317559787_71e537b08c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51318503903_92a48e2f48_h.jpg">
+</p>
+---
+Hillsdale mall.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51332741906_1bd3230f96_h.jpg">
+</p>
+---
+Joy.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51319302250_4a42f4d640_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51318295966_e6f528e876_h.jpg">
 </p>
