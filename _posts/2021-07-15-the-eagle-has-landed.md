@@ -17,6 +17,7 @@ tags: [blog, 2021, project 365, 196/365, family]
     color:#fff;
   }
 </style>
+So... Eric and Ashley are visiting from Columbus, OH for the week.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51315299442_612b438f50_h.jpg">
 </p>
