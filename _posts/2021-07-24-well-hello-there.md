@@ -11,7 +11,7 @@ tags: [blog, 2021, project 365, 204/365, food, san carlos]
     color:#fff;
   }
   .intro-header.big-img {
-    background-position:center; 
+    background-position:top; 
   }
   .blog-tags a {
     color:#fff;
