@@ -3,7 +3,7 @@ layout: post
 title: Santa Cruz.
 cover-img: https://live.staticflickr.com/65535/51359529467_0aaa975688_h.jpg
 subtitle: 217/365 | Project 365
-tags: [blog, 2021, project 365, 217/365, family, santa cruz]
+tags: [blog, 2021, project 365, 217/365, family, santa cruz, food, boardwalk]
 ---
 <style>
   body {
