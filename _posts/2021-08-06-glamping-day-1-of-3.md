@@ -114,9 +114,6 @@ Glamping day 1 of 3.
   <img src="https://live.staticflickr.com/65535/51363204900_4ff8b67c98_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51363204900_4ff8b67c98_h.jpg">
-</p>
-<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51363205050_32d4f868a9_h.jpg">
 </p>
 <p class="post-img-wrap">
