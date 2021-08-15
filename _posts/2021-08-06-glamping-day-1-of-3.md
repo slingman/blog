@@ -71,9 +71,6 @@ Glamping day 1 of 3.
 </p>
 ---
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51363201420_f1d5019461_h.jpg">
-</p>
-<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51361435077_a104e9e015_h.jpg">
 </p>
 <p class="post-img-wrap">
@@ -90,6 +87,9 @@ Glamping day 1 of 3.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51363202770_7bf429d74f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51362194066_c44e9a54dd_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51363202980_5cdde84726_h.jpg">
