@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Santa Cruz.
-cover-img: https://live.staticflickr.com/65535/51361298915_e7f36f9b5c_h.jpg
+cover-img: https://live.staticflickr.com/65535/51359529467_0aaa975688_h.jpg
 subtitle: 217/365 | Project 365
 tags: [blog, 2021, project 365, 217/365, family, santa cruz]
 ---
@@ -26,4 +26,11 @@ Hung at Santa Cruz for the day witth fam.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51361008934_e42edf77b6_h.jpg">
+</p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51361009019_5c20ca0db3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51361298915_e7f36f9b5c_h.jpg">
 </p>
