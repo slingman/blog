@@ -83,9 +83,6 @@ Hung at Santa Cruz for the day with the fam.
   <img src="https://live.staticflickr.com/65535/51359529707_0708933758_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51361298915_e7f36f9b5c_h.jpg">
-</p>
-<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51359529467_0aaa975688_h.jpg">
 </p>
 <p class="post-img-wrap">
