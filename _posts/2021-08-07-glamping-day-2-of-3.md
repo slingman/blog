@@ -51,3 +51,12 @@ Glamping day 2 of 3.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51364206293_c6ecdef736_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365013830_d698b1773f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364221153_fc14b8d1de_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364020436_77ea7df6d6_h.jpg">
+</p>
