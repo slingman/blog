@@ -140,3 +140,6 @@ Glamping day 1 of 3.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51363207475_3740e9b48f_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365367965_b9f0c3e483_h.jpg">
+</p>
