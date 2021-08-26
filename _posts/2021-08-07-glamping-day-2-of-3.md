@@ -114,3 +114,6 @@ Glamping day 2 of 3.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51364417038_2280fe66ed_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364418628_3c8072b2bc_h.jpg">
+</p>
