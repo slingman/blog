@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glamping day 2 of 3.
-cover-img: https://live.staticflickr.com/65535/51363200385_151001da45_h.jpg
+cover-img: https://live.staticflickr.com/65535/51365188930_8c2d2789a6_h.jpg
 subtitle: 219/365 | Project 365
 tags: [blog, 2021, project 365, 219/365, family, glamping, wildhaven, sonoma]
 ---
@@ -26,9 +26,6 @@ Glamping day 2 of 3.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51364708394_55f6f9d9b8_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51364710279_e7afd502cf_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51364710279_e7afd502cf_h.jpg">
@@ -59,4 +56,40 @@ Glamping day 2 of 3.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51364020436_77ea7df6d6_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364759229_be7a6358a3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364024616_0c7ec14e6f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364041236_5f3300810c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364780509_22b6442955_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364050606_14b3cd770f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364171486_f6c6991932_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365184870_60f6f09fbd_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51364909984_ee8514d2e8_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365186640_280d3c6790_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365188930_8c2d2789a6_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365188165_39efac07f8_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365188930_8c2d2789a6_h.jpg">
 </p>
