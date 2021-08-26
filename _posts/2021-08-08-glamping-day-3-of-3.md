@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Glamping day 3 of 3.
-cover-img: https://live.staticflickr.com/65535/51363200385_151001da45_h.jpg
+cover-img: https://live.staticflickr.com/65535/51365394447_3dedba8461_h.jpg
 subtitle: 220/365 | Project 365
 tags: [blog, 2021, project 365, 220/365, family, glamping, wildhaven, sonoma]
 ---
@@ -41,4 +41,19 @@ Glamping day 3 of 3. Ain't gonna lie, a bit sad about going home today.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51365394447_3dedba8461_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51367162500_9241cd1198_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51365394587_09e6866724_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51367162630_9ff17c67a5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51366373523_86f116d2e9_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51366152361_3ebc10b6f4_h.jpg">
 </p>
