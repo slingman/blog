@@ -23,6 +23,9 @@ tags: [blog, 2021, project 365, 223/365, food]
 ---
 <a href="https://avenidarestaurant.net/" target="_blank">Avenida</a>
 <p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51370049327_d96b5d99eb_h.jpg">
+</p>
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51370808841_e79c53a420_h.jpg">
 </p>
 <p class="post-img-wrap">
