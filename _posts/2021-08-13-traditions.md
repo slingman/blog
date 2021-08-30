@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Traditions
-cover-img: https://live.staticflickr.com/65535/51374029442_f7f2be5ba4_h.jpg
+cover-img: https://live.staticflickr.com/65535/51378167042_743d001484_h.jpg
 subtitle: 225/365 | Project 365
 tags: [blog, 2021, project 365, 225/365, kids, food, school]
 ---
