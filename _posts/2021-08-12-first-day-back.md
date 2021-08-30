@@ -1,9 +1,9 @@
 ---
 layout: post
-title: First day
+title: First day back
 cover-img: https://live.staticflickr.com/65535/51374029442_f7f2be5ba4_h.jpg
-subtitle: 223/365 | Project 365
-tags: [blog, 2021, project 365, 223/365, kids, food]
+subtitle: 224/365 | Project 365
+tags: [blog, 2021, project 365, 223/365, kids, food, school]
 ---
 <style>
   body {
