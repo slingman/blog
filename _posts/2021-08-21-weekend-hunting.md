@@ -21,11 +21,11 @@ Went out walking and Pokemon hunting with this guy...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51395030729_f6866fe4df_h.jpg">
 </p>
-<p class="post-img-wrap" style="width:100%">
-  <img src="https://live.staticflickr.com/65535/51395030509_2708e09b39_o.jpg">
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51395030509_2708e09b39_o.jpg" width="100%">
 </p>
-<p class="post-img-wrap" style="width:100%">
-  <img src="https://live.staticflickr.com/65535/51394298131_368476d643_o.jpg">
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51394298131_368476d643_o.jpg" width="100%">
 </p>
 ---
 <p class="post-img-wrap">
