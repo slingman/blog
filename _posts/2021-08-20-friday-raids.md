@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Impromptu.
+title: Friday raids.
 cover-img: https://live.staticflickr.com/65535/51394559093_bbc3bed689_h.jpg
-subtitle: 231/365 | Project 365
-tags: [blog, 2021, project 365, 231/365, friday, friends, family, pokemon, food]
+subtitle: 232/365 | Project 365
+tags: [blog, 2021, project 365, 232/365, friday, friends, family, pokemon, food]
 ---
 <style>
   body {
@@ -17,7 +17,7 @@ tags: [blog, 2021, project 365, 231/365, friday, friends, family, pokemon, food]
     color:#fff;
   }
 </style>
-Mood.
+Friday mood.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51394296281_bee26364b2_h.jpg">
 </p>
