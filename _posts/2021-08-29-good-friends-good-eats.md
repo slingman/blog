@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good friends, good eats.
-cover-img: https://live.staticflickr.com/65535/51411315707_84cc74ff9e_h.jpg
+cover-img: https://live.staticflickr.com/65535/51412951206_3d604d8784_h.jpg
 subtitle: 241/365 | Project 365
 tags: [blog, 2021, project 365, 241/365, food, friends]
 ---
