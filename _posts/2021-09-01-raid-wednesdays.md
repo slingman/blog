@@ -3,7 +3,7 @@ layout: post
 title: Raid Wednesdays.
 cover-img: https://live.staticflickr.com/65535/51420905382_7c8498d432_h.jpg
 subtitle: 244/365 | Project 365
-tags: [blog, 2021, project 365, 244/365, food]
+tags: [blog, 2021, project 365, 244/365, food, pokemon]
 ---
 <style>
   body {
