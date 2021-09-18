@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-birthday.
-cover-img: https://live.staticflickr.com/65535/51422843133_0cd3d81b4f_h.jpg
+cover-img: https://live.staticflickr.com/65535/51427797137_72741ce51d_h.jpg
 subtitle: 247/365 | Project 365
 tags: [blog, 2021, project 365, 247/365, food, birthday]
 ---
