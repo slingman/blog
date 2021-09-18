@@ -1,0 +1,1 @@
+[url=https://www.flickr.com/gp/sling_flickr/28KpKS][img]https://live.staticflickr.com/65535/51437813536_a78c9f12d9_h.jpg[/img][/url][url=https://www.flickr.com/gp/sling_flickr/28KpKS]PXL_20210907_183443037[/url] by [url=https://www.flickr.com/photos/sling_flickr/]Steve Ling[/url], on Flickr
