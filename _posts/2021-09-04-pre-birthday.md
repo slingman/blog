@@ -33,6 +33,7 @@ China Bee action before the movie.
   <img src="https://live.staticflickr.com/65535/51488639318_5c2fe7997c_h.jpg">
 </p>
 ---
+After the movie.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51428550501_5b59d38450_h.jpg">
 </p>
@@ -47,4 +48,8 @@ China Bee action before the movie.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51488648228_2996d27cb7_h.jpg">
+</p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51489368485_5f6b5bd31f_h.jpg">
 </p>
