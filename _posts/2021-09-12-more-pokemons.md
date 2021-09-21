@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pokemons.
+title: More pokemons.
 cover-img: https://live.staticflickr.com/65535/51466528781_e5a79a1e42_h.jpg
 subtitle: 255/365 | Project 365
 tags: [blog, 2021, project 365, 255/365, boat, pokemon, friends, family]
