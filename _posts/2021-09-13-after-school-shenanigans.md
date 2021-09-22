@@ -18,7 +18,7 @@ tags: [blog, 2021, project 365, 256/365, friends, family]
   }
 </style>
 <p class="post-img-wrap">
-  <img src="">
+  <img src="https://live.staticflickr.com/65535/51499035776_4ec0fbc50e_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51468545556_aeecd7e5b9_h.jpg">
