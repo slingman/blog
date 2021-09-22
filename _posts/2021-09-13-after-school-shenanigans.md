@@ -1,7 +1,7 @@
 ---
 layout: post
 title: After school shenanigans.
-cover-img: https://live.staticflickr.com/65535/51466528781_e5a79a1e42_h.jpg
+cover-img: https://live.staticflickr.com/65535/51499035776_4ec0fbc50e_h.jpg
 subtitle: 256/365 | Project 365
 tags: [blog, 2021, project 365, 256/365, friends, family]
 ---
@@ -18,7 +18,7 @@ tags: [blog, 2021, project 365, 256/365, friends, family]
   }
 </style>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51499035776_4ec0fbc50e_h.jpg">
+  <img src="">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51468545556_aeecd7e5b9_h.jpg">
