@@ -199,6 +199,7 @@ Hanabusa Cafe. Sunnyvale.
   <img src="https://live.staticflickr.com/65535/51519692805_150d0ecd7b_h.jpg">
 </p>
 ---
+Amami Sushi. Cupertino.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51517971752_4015d5cb52_h.jpg">
 </p>
