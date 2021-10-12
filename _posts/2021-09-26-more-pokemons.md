@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Southbound.
+title: More Pokemons.
 cover-img: https://live.staticflickr.com/65535/51517971752_4015d5cb52_h.jpg
 subtitle: 269/365 | Project 365
 tags: [blog, 2021, project 365, 269/365, family, food, pokemon]
@@ -44,4 +44,7 @@ Ube mochi pancakes.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51521355812_42a0839f5c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51521355917_cf00231fbd_h.jpg">
 </p>
