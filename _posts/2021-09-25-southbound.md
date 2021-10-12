@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Southbound.
-cover-img: https://live.staticflickr.com/65535/51514816764_f09ae272db_h.jpg
+cover-img: https://live.staticflickr.com/65535/51517971752_4015d5cb52_h.jpg
 subtitle: 268/365 | Project 365
 tags: [blog, 2021, project 365, 268/365, family, food, pokemon, friends]
 ---
