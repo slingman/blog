@@ -19,9 +19,6 @@ tags: [blog, 2021, project 365, 272/365, food]
 </style>
 Fall is upon us. Tiff made pumpkin muffins. Warm, fluffy, and delicious.
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51532500701_18af3916fe_h.jpg">
-</p>
-<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51532502691_c57a97eb83_h.jpg">
 </p>
 <p class="post-img-wrap">
