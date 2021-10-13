@@ -3,7 +3,7 @@ layout: post
 title: Butterflies.
 cover-img: https://live.staticflickr.com/65535/51538029407_850ca687b4_h.jpg
 subtitle: 273/365 | Project 365
-tags: [blog, 2021, project 365, 273/365, food]
+tags: [blog, 2021, project 365, 273/365]
 ---
 <style>
   body {
