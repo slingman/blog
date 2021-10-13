@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leftovers.
+title: Day 2 of the week.
 cover-img: https://live.staticflickr.com/65535/51532502281_ced574006a_h.jpg
 subtitle: 271/365 | Project 365
 tags: [blog, 2021, project 365, 271/365, food, pokemon, sneakers]
