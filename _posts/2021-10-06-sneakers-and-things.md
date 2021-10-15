@@ -25,7 +25,10 @@ Swift Triax 1998.
   <img src="https://live.staticflickr.com/65535/51560368793_8083232fd3_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51560180916_a49f24605d_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51561055770_0c850cf38d_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51560132306_152b344311_h.jpg">
 </p>
 ---
 Pokemon cards for Raiden from grandma. For his good grades apparently. Sucka!
