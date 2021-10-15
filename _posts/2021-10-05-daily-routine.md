@@ -24,6 +24,6 @@ Daily routine.
     <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 ---
-<p> class="post-img-wrap">
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51556487818_e2ae34c14a_o.jpg" width="100%">
 </p>
