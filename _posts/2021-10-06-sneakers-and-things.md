@@ -3,7 +3,7 @@ layout: post
 title: Sneakers and things.
 cover-img: https://live.staticflickr.com/65535/51559419707_8f529c6e10_h.jpg
 subtitle: 279/365 | Project 365
-tags: [blog, 2021, project 365, 279/365, sneakers]
+tags: [blog, 2021, project 365, 279/365, sneakers, food, pokemon, family]
 ---
 <style>
   body {
