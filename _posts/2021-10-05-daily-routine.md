@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daily routine.
-cover-img: https://live.staticflickr.com/65535/51551859082_c21d70f97b_h.jpg
+cover-img: https://live.staticflickr.com/31337/51553379064_53ec830051_o.jpg
 subtitle: 277/365 | Project 365
 tags: [blog, 2021, project 365, 277/365, food]
 ---
