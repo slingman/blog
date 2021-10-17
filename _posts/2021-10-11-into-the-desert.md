@@ -113,6 +113,7 @@ Which faces this...
   <img src="https://live.staticflickr.com/65535/51579688675_993238f729_h.jpg">
 </p>
 Impressive sprinkles of architectures in the LA downtown area.
+
 ---
 ... And we've arrived at Palm Desert. Checked in, and took the kids to the pool.
 <p class="post-img-wrap">
@@ -123,4 +124,43 @@ Impressive sprinkles of architectures in the LA downtown area.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51579455499_dc30c66206_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578772411_975b13bb1a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578773096_4aa2323b9b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578774161_de64387a2a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579450669_659cebaa84_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579452809_9475aaac2d_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579692575_3b630bc134_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51577958587_7a0f19c2c5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579007583_37048a25ee_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579008633_2e555868f8_h.jpg">
+</p>
+---
+Dinner.
+
+Pan seared + Oven baked steak - who knew?
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579766704_5a00bd8b41_h.jpg">
+</p>
+---
+Crazy ass comeback.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578380442_efa572e85c_h.jpg">
 </p>
