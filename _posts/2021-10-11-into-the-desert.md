@@ -42,44 +42,15 @@ Eggslut.
   <img src="https://live.staticflickr.com/65535/51577939462_0b7d7bab5d_h.jpg">
 </p>
 ---
-Other Grand Central scenes.
+The Donut Man.
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51598842513_5c4afcbabb_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51578753661_632560258a_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51579431369_6e32caf110_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51579431864_8adec9145c_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51577946177_3dc965e116_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51578753061_cf041a3040_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51578990018_4d9da2a347_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51598862463_8400de639f_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51577943027_76989c0ca1_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51578995768_100e0ea8f6_h.jpg">
-</p>
----
-The Donut Man.
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51577946177_3dc965e116_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51579675310_75c42f476e_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51578759761_2c1d5fa9ba_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51577944107_0031a03f8d_h.jpg">
@@ -98,6 +69,36 @@ The Donut Man.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51579680145_51f686ee58_h.jpg">
+</p>
+---
+Other Grand Central scenes.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579675310_75c42f476e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578759761_2c1d5fa9ba_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51598842513_5c4afcbabb_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578753661_632560258a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579431369_6e32caf110_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579431864_8adec9145c_h.jpg">
+</p>
+
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51598862463_8400de639f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51577943027_76989c0ca1_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578995768_100e0ea8f6_h.jpg">
 </p>
 ---
 Blue bottle across the street.
