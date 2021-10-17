@@ -19,20 +19,6 @@ tags: [blog, 2021, project 365, 284/365, family, vacation, food]
 </style>
 But first... Grand Central LA.
 
-While waiting in line for Eggslut.
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51598842513_5c4afcbabb_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51578753661_632560258a_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51579431369_6e32caf110_h.jpg">
-</p>
-<p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51579431864_8adec9145c_h.jpg">
-</p>
----
 Eggslut.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51599526305_4f4f9724c7_h.jpg">
@@ -58,6 +44,18 @@ Eggslut.
 ---
 Other Grand Central scenes.
 <p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51598842513_5c4afcbabb_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578753661_632560258a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579431369_6e32caf110_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579431864_8adec9145c_h.jpg">
+</p>
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51579675310_75c42f476e_h.jpg">
 </p>
 <p class="post-img-wrap">
@@ -70,7 +68,7 @@ Other Grand Central scenes.
   <img src="https://live.staticflickr.com/65535/51578990018_4d9da2a347_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51578760791_cdcf0b2106_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51598862463_8400de639f_h.jpg">
 </p>
 ---
 Blue bottle across the street.
