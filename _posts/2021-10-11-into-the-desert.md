@@ -110,11 +110,9 @@ Blue bottle across the street.
 </p>
 Which faces this...
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51598683091_88854b6d1a_h.jpg">
-</p>
-<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51579688675_993238f729_h.jpg">
 </p>
+Impressive sprinkles of architectures in the LA downtown area.
 ---
 ... And we've arrived at Palm Desert. Checked in, and took the kids to the pool.
 <p class="post-img-wrap">
