@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Into the desert.
-cover-img: https://live.staticflickr.com/65535/51578745756_0cafa3900e_h.jpg
+cover-img: https://live.staticflickr.com/65535/51579672400_30cbddfbab_h.jpg
 subtitle: 284/365 | Project 365
 tags: [blog, 2021, project 365, 284/365, family, vacation, food]
 ---
@@ -122,4 +122,7 @@ Which faces this...
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51578770766_0e15c2679e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579455499_dc30c66206_h.jpg">
 </p>
