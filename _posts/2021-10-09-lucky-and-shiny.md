@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Day before vaca.
+title: Lucky and shiny.
 cover-img: https://live.staticflickr.com/65535/51571808931_2dcf29467e_h.jpg
 subtitle: 282/365 | Project 365
-tags: [blog, 2021, project 365, 282/365, family, october break, food]
+tags: [blog, 2021, project 365, 282/365, family, weekend, pokemon, food]
 ---
 <style>
   body {
@@ -45,7 +45,7 @@ Air Mariah.
   <img src="https://live.staticflickr.com/65535/51570620842_17d37c2b22_h.jpg">
 </p>
 ---
-Shiny and lucky.
+Lucky and shiny.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51572734815_2faa21787e_h.jpg">
 </p>
