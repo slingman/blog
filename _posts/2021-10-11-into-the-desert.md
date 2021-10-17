@@ -112,3 +112,14 @@ Which faces this...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51598683091_88854b6d1a_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579688675_993238f729_h.jpg">
+</p>
+---
+... And we've arrived at Palm Desert. Checked in, and took the kids to the pool.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51579686245_84c4b2545b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51578770766_0e15c2679e_h.jpg">
+</p>
