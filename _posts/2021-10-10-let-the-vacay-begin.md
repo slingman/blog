@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let the vaca begin.
+title: Let the vacay begin.
 cover-img: https://live.staticflickr.com/65535/51578745756_0cafa3900e_h.jpg
 subtitle: 283/365 | Project 365
 tags: [blog, 2021, project 365, 283/365, family, vacation, food]
