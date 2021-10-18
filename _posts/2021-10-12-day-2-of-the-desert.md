@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1 of the desert.
+title: Day 2 of the desert.
 cover-img: https://live.staticflickr.com/65535/51579694215_261a5a9eda_h.jpg
 subtitle: 285/365 | Project 365
 tags: [blog, 2021, project 365, 285/365, family, vacation, food]
