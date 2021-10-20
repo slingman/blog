@@ -88,7 +88,64 @@ Pool time.
   <img src="https://live.staticflickr.com/65535/51586998498_53d1818466_h.jpg">
 </p>
 ---
-After pool time.
+After pool time, hanging out with these guys for a quick minute...
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586999203_69e0549ea3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586999458_c6b4c45be0_h.jpg">
+</p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51587680990_943c4697c1_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586775536_4f2f8bc7f2_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587676440_7830c6b399_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586779251_041e98cd0f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587681520_002d372f08_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587681785_8f1f7b8530_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587438174_07a82063bd_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587005613_84214f8fed_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587006143_7c67112fb7_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587439249_67bb7ce6c1_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51585945272_487b6655ab_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51585945817_28498b1d70_h.jpg">
+</p>
+---
+Raidin' and to pick up dinner...
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586783286_cb87dae596_h.jpg">
+</p>
+Men folks and kids came back to the house to make some drinks...
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587440419_a627b938ac_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586783596_c3f31262bd_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587007563_00964a965a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51587007798_79b8b95e1e_h.jpg">
 </p>
