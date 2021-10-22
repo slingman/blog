@@ -104,3 +104,7 @@ Lappert's Ice Cream, again.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51589785502_ac0afc1e3f_h.jpg">
 </p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51590618186_b1db7880f1_h.jpg">
+</p>
