@@ -17,7 +17,13 @@ tags: [blog, 2021, project 365, 287/365, family, vacation]
     color:#fff;
   }
 </style>
-Late night star gazing.
+Late night star gazing. Shot with the Pixel 3a. Lots of light pollution though.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51586549037_a738715d19_h.jpg">
+</p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51608809642_e9d05dd818_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51588039749_915bbcfba7_h.jpg">
 </p>
