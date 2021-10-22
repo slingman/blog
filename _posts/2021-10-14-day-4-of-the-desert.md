@@ -30,3 +30,11 @@ Late night star gazing. Shot with the Pixel 3a. Lots of light pollution though.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51587990789_600fe1b0dd_k.jpg">
 </p>
+---
+Morning walk to the front desk area.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51588630022_2415fd2f5c_k.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51590124144_d6b0cc2be5_h.jpg">
+</p>
