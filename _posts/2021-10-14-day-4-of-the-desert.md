@@ -38,3 +38,29 @@ Morning walk to the front desk area.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51590124144_d6b0cc2be5_h.jpg">
 </p>
+---
+Pool time.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51589637636_c82a599b8b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51589638586_2fea8969d3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51589853988_912fc51992_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51588957397_76188f3ab5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51590449604_291bd7d139_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51590007453_cbf9578de7_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51588960802_870be0f32c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51590686770_1742d3935c_h.jpg">
+</p>
