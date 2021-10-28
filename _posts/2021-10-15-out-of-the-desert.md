@@ -3,7 +3,7 @@ layout: post
 title: Out of the desert.
 cover-img: https://live.staticflickr.com/65535/51595257955_252368eb18_h.jpg
 subtitle: 288/365 | Project 365
-tags: [blog, 2021, project 365, 288/365, family, friends, vacation]
+tags: [blog, 2021, project 365, 288/365, family, friends, vacation, food, LA]
 ---
 <style>
   body {
