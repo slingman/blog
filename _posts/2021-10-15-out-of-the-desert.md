@@ -254,3 +254,5 @@ Funko store in Hollywood
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51594370441_7d268c08cc_h.jpg">
 </p>
+---
+Good night, LA, it's been real. Till next time!
