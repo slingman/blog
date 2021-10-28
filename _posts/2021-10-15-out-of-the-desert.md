@@ -2,8 +2,8 @@
 layout: post
 title: Out of the desert.
 cover-img: https://live.staticflickr.com/65535/51608809642_e9d05dd818_h.jpg
-subtitle: 287/365 | Project 365
-tags: [blog, 2021, project 365, 287/365, family, vacation]
+subtitle: 288/365 | Project 365
+tags: [blog, 2021, project 365, 288/365, family, friends, vacation]
 ---
 <style>
   body {
@@ -45,4 +45,7 @@ Some employee at Warby Parker.
   <img src="https://live.staticflickr.com/65535/51595258145_0ca962d54e_h.jpg">
 </p>
 ---
-Brilliant idea of going to the Funko store in Hollywood
+Funko store in Hollywood
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51595258400_82351be5b1_h.jpg">
+</p>
