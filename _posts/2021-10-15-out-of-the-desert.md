@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Out of the desert.
-cover-img: https://live.staticflickr.com/65535/51608809642_e9d05dd818_h.jpg
+cover-img: https://live.staticflickr.com/65535/51595257955_252368eb18_h.jpg
 subtitle: 288/365 | Project 365
 tags: [blog, 2021, project 365, 288/365, family, friends, vacation]
 ---
@@ -48,4 +48,16 @@ Some employee at Warby Parker.
 Funko store in Hollywood
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51595258400_82351be5b1_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51594362016_2f9740b15b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51594362036_31451eed19_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51594362116_c061b8b82b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51595258625_1afc183449_h.jpg">
 </p>
