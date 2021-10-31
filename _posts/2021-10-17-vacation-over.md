@@ -3,7 +3,7 @@ layout: post
 title: Vacation over :'(.
 cover-img: https://live.staticflickr.com/65535/51602001065_e508937156_h.jpg
 subtitle: 290/365 | Project 365
-tags: [blog, 2021, project 365, 290/365]
+tags: [blog, 2021, project 365, 290/365, food, family]
 ---
 <style>
   body {
