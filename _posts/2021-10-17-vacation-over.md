@@ -26,7 +26,7 @@ This was so good. Made by Chi's mom.
 
 Pink guava.
 <p class="post-img-wrap">
-  <img src="hhttps://live.staticflickr.com/65535/51600286357_880dd12891_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51600286357_880dd12891_h.jpg">
 </p>
 ---
 At mom's.
