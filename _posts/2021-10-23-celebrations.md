@@ -17,7 +17,7 @@ tags: [blog, 2021, project 365, 296/365, food, friends, family]
     color:#fff;
   }
 </style>
-Our wedding anniversaries are exactly 1 week apart and this is our 18th year. I think we've been celebrating together every year for at least the past 10 years. Pretty amazing friendship we have with these two.  Appreciate you!
+Our wedding anniversaries are exactly 1 week apart and this is our 18th year. I think we've been celebrating together every year for at least the past 10 years. Pretty amazing friendship we have with these two.  Appreciate you! Happy anniversay!
 
 Cassava. San Francisco.
 <p class="post-img-wrap">
@@ -25,6 +25,12 @@ Cassava. San Francisco.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51624195288_45ca8f84c4_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51624829490_69462ec2c8_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51623140842_a76834b60c_h.jpg">
 </p>
 ---
 de Young Museum. San Francisco.
