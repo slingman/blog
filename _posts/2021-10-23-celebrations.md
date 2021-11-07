@@ -17,7 +17,7 @@ tags: [blog, 2021, project 365, 296/365, food, friends, family]
     color:#fff;
   }
 </style>
-A week apart for our 18th wedding anniversary with these fools. It's pretty amazing that we've been friends all these years.  Here's the day in pictures.
+Our wedding anniversaries are exactly 1 week apart and this is our 18th year. I think we've been celebrating together every year for at least the past 10 years. Pretty amazing friendship we have with these two.  Appreciate you!
 
 Cassava. San Francisco.
 <p class="post-img-wrap">
