@@ -63,9 +63,19 @@ Cassava. San Francisco.
   <img src="https://live.staticflickr.com/65535/51623143222_844163f04c_h.jpg">
 </p>
 ---
+Please don't do this y'all!
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51624626424_6ea82a35de_h.jpg">
+</p>
+
 Quick walk around the block.
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/51661449697_9c7bd43697_h.jpg">
+  <img src="https://live.staticflickr.com/65535/51630131564_23561ab842_h.jpg">
+</p>
+
+There are so many things wrong with this "artwork"
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51629705478_44813a28d6_h.jpg">
 </p>
 ---
 de Young Museum. San Francisco.
