@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The aftermath.
+title: Back to regular scheduled programming.
 cover-img: https://live.staticflickr.com/65535/51673688216_148f1b80c2_h.jpg
 subtitle: 299/365 | Project 365
 tags: [blog, 2021, project 365, 299/365]
