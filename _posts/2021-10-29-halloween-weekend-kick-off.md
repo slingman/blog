@@ -32,3 +32,6 @@ Raiden's performance at school for the Halloween.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51639752402_b56c1ef6d1_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51640794793_f178b16058_h.jpg">
+</p>
