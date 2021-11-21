@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Halloween Saturday.
-cover-img: https://live.staticflickr.com/65535/51639752402_b56c1ef6d1_h.jpg
+cover-img: https://live.staticflickr.com/65535/51643644264_b1393e1483_h.jpg
 subtitle: 303/365 | Project 365
-tags: [blog, 2021, project 365, 303/365, family, halloween, food]
+tags: [blog, 2021, project 365, 303/365, family, halloween, sneakers]
 ---
 <style>
   body {
@@ -54,4 +54,52 @@ Kunjip Restaurant, Santa Clara.
 Boba pups.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51642992826_e8257aef90_h.jpg">
+</p>
+---
+Hanging with moms, but was not able to find parking, so I left the area and try to take some pics.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643210733_3db11231b6_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642993776_79d62c808d_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643644029_22e30d9e2e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642164967_ca40e1d193_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642994711_ffffad58a7_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642165397_f066b0fd78_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643644849_4dd4f5525a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642994986_1d385a399d_h.jpg">
+</p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642165982_56c4188a83_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643849535_ddf19a5fef_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51642996196_bea50652f0_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643646384_d837bfe40e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643850130_026eaaa1f1_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643213518_25bdf08197_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51643646729_e60e61d9aa_h.jpg">
 </p>
