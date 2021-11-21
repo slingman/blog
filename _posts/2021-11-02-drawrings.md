@@ -11,13 +11,13 @@ tags: [blog, 2021, project 365, 306/365, sneakers]
     color:#fff;
   }
   .intro-header.big-img {
-    background-position:center; 
+    background-position:bottom; 
   }
   .blog-tags a {
     color:#fff;
   }
 </style>
-Had a random thought about these sneakers that I love so much... so I drew them.
+Had a random thought about these sneakers that I love so much... so I drew them. Hence the mis-spelling of "drawing" is intentional.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51651346283_186e5747c9_h.jpg">
 </p>
