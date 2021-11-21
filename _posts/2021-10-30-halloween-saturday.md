@@ -3,7 +3,7 @@ layout: post
 title: Halloween Saturday.
 cover-img: https://live.staticflickr.com/65535/51643644264_b1393e1483_h.jpg
 subtitle: 303/365 | Project 365
-tags: [blog, 2021, project 365, 303/365, family, halloween, sneakers]
+tags: [blog, 2021, project 365, 303/365, family, halloween, sneakers, san francisco]
 ---
 <style>
   body {
