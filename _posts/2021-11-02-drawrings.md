@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Drawrings.
-cover-img: https://live.staticflickr.com/65535/51651113571_2811182cd9_h.jpg
+cover-img: https://live.staticflickr.com/65535/51657018960_9b506f7854_h.jpg
 subtitle: 306/365 | Project 365
-tags: [blog, 2021, project 365, 306/365, family, halloween, candy]
+tags: [blog, 2021, project 365, 306/365, sneakers]
 ---
 <style>
   body {
