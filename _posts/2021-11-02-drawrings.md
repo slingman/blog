@@ -24,6 +24,9 @@ Had a random thought about these sneakers that I love so much... so I drew them.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51651113951_34991e2758_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51657018960_9b506f7854_h.jpg">
+</p>
 ---
 Went out for a walk...
 <p class="post-img-wrap">
