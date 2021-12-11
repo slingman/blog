@@ -3,7 +3,7 @@ layout: post
 title: Lights, camera, celebrations.
 cover-img: https://live.staticflickr.com/65535/51664113929_aa8a0d8f52_h.jpg
 subtitle: 311/365 | Project 365
-tags: [blog, 2021, project 365, 311/366, family, friends]
+tags: [blog, 2021, project 365, 311/365, family, friends]
 ---
 <style>
   body {
