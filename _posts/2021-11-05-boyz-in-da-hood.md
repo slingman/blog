@@ -3,7 +3,7 @@ layout: post
 title: Boyz in da hood.
 cover-img: https://live.staticflickr.com/65535/51660788128_9ed181e87b_h.jpg
 subtitle: 309/365 | Project 365
-tags: [blog, 2021, project 365, 309/366, friend, birthday]
+tags: [blog, 2021, project 365, 309/365, friend, birthday]
 ---
 <style>
   body {
