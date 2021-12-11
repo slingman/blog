@@ -1,9 +1,9 @@
 ---
 layout: post
-title: First does.
+title: First dose.
 cover-img: https://live.staticflickr.com/65535/51676868717_6f42855b1f_h.jpg
-subtitle: 316/365 | Project 365
-tags: [blog, 2021, project 365, 316/366, friday, sneakers, food, jokoy]
+subtitle: 317/365 | Project 365
+tags: [blog, 2021, project 365, 317/365, weekend, family]
 ---
 <style>
   body {
