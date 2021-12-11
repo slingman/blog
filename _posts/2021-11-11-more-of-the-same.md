@@ -2,8 +2,8 @@
 layout: post
 title: More of the same.
 cover-img: https://live.staticflickr.com/65535/51737872562_5ce7f00820_h.jpg
-subtitle: 314/365 | Project 365
-tags: [blog, 2021, project 365, 314/366, sneakers]
+subtitle: 315/365 | Project 365
+tags: [blog, 2021, project 365, 315/366, sneakers]
 ---
 <style>
   body {
