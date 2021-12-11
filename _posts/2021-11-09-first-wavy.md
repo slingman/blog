@@ -2,8 +2,8 @@
 layout: post
 title: First wavy.
 cover-img: https://static.nike.com/a/images/t_prod,f_auto/w_1920,c_limit/01d5b1f6-7ee4-436f-ad20-76f8910f20e6/air-max-1-x-patta-monarch-dh1348-001-release-date.jpg
-subtitle: 314/365 | Project 365
-tags: [blog, 2021, project 365, 314/366, sneakers]
+subtitle: 313/365 | Project 365
+tags: [blog, 2021, project 365, 313/366, sneakers]
 ---
 <style>
   body {
