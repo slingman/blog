@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Boys Friyay.
-cover-img: https://live.staticflickr.com/65535/51689351161_889a7160c5_h.jpg
+cover-img: https://live.staticflickr.com/65535/51691868511_8f9bded5f9_h.jpg
 subtitle: 322/365 | Project 365
-tags: [blog, 2021, project 365, 322/365, family, sneakers, cars]
+tags: [blog, 2021, project 365, 322/365, family, sneakers, food]
 ---
 <style>
   body {
@@ -39,4 +39,22 @@ A bit ass backwards... but took this pic for the gram.
 While the girls were out, we hung. :D It was great times.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51691868416_19f2674005_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51691071457_e7b5c846a5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51691868511_8f9bded5f9_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51692758940_85d4beba06_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51692549949_3bf473e441_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51692141663_98da434e1a_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51692550834_1598c95b08_h.jpg">
 </p>
