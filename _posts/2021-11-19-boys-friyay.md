@@ -2,8 +2,8 @@
 layout: post
 title: Boys Friyay.
 cover-img: https://live.staticflickr.com/65535/51691868511_8f9bded5f9_h.jpg
-subtitle: 322/365 | Project 365
-tags: [blog, 2021, project 365, 322/365, family, sneakers, food]
+subtitle: 323/365 | Project 365
+tags: [blog, 2021, project 365, 323/365, family, sneakers, food]
 ---
 <style>
   body {
