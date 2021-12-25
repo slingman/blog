@@ -3,7 +3,7 @@ layout: post
 title: The tradition.
 cover-img: https://live.staticflickr.com/65535/51704961691_05e10cb64e_h.jpg
 subtitle: 329/365 | Project 365
-tags: [blog, 2021, project 365, 329/365, food, thanksgiving]
+tags: [blog, 2021, project 365, 329/365, food, family, thanksgiving]
 ---
 <style>
   body {
