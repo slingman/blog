@@ -3,7 +3,7 @@ layout: post
 title: Mind clearing.
 cover-img: https://live.staticflickr.com/65535/51705635464_baec5ba37e_h.jpg
 subtitle: 328/365 | Project 365
-tags: [blog, 2021, project 365, 328/365, family, food]
+tags: [blog, 2021, project 365, 328/365, family, food, sneakers]
 ---
 <style>
   body {
