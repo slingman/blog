@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roller coaster.
-cover-img: https://live.staticflickr.com/65535/51698651132_75d1f9c660_h.jpg
+cover-img: https://live.staticflickr.com/65535/51702314695_74da234f32_h.jpg
 subtitle: 326/365 | Project 365
 tags: [blog, 2021, project 365, 326/365, family]
 ---
@@ -33,4 +33,7 @@ Then went to get my car's equilibrium fixed...
 </p>
 ---
 Then I got the news that my dad got a stroke and has now become unconcscious after hitting the floor in the bathroom. :'(
-Eric, Cindy, and I now have made a joint decision to not operate and see if he himself can make a comeback. While I try to sort out a way to fly back to Singapore.
+
+Eric, Cindy, and I now have made a joint decision to not operate and see if he himself can make a comeback.
+
+All these while I try to sort out a way to fly back to Singapore.
