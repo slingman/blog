@@ -19,12 +19,12 @@ tags: [blog, 2021, project 365, 327/365, family]
 </style>
 Today was... 
 
-First, went to get my boster shot.
+First, went to get my boster shot, taught some lady to windmill after she gets her shot.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51700630417_2d33d0c3b0_h.jpg">
 </p>
 ---
-Then went to get my car's equilibrium fixed...
+Then went to get my car's equilibrium fixed... Gawd, I really do love this car.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51701707483_85d7c28859_h.jpg">
 </p>
