@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation.
+title: Presentation matters.
 cover-img: https://live.staticflickr.com/65535/51714111312_3e5255397a_h.jpg
 subtitle: 333/365 | Project 365
 tags: [blog, 2021, project 365, 333/365, sneakers]
