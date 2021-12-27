@@ -24,3 +24,6 @@ They way things are presented, matters. WMNS Air Jordan 1 CMFT.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51715167648_540f026aa5_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51714903076_d0c93f9401_h.jpg">
+</p>
