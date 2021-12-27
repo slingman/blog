@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Friendsgiving.
-cover-img: https://live.staticflickr.com/65535/51707446260_2f2f71d75c_h.jpg
+cover-img: https://live.staticflickr.com/65535/51712837463_3cfbd1c991_h.jpg
 subtitle: 331/365 | Project 365
 tags: [blog, 2021, project 365, 331/365, family, friends, friendsgiving, food]
 ---
