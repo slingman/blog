@@ -26,3 +26,11 @@ Raiden gets his second vaccine shot today.
     <img src="https://live.staticflickr.com/31337/51724861794_6115692aec_b.jpg" width="100%" alt="PXL_20211204_182025146"></a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
+---
+Drove around the neighborhood to hunt for Pokemons.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51729431683_1297aeb773_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51729830494_04ee519886_h.jpg">
+</p>
