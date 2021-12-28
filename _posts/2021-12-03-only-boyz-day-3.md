@@ -21,7 +21,6 @@ Breakfast.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51723394362_70a616c1fb_h.jpg">
 </p>
-[url=https://www.flickr.com/gp/sling_flickr/93o4Ei][img][/img][/url][url=https://www.flickr.com/gp/sling_flickr/93o4Ei]PXL_20211203_172834512.PORTRAIT[/url] by [url=https://www.flickr.com/photos/sling_flickr/]Steve Ling[/url], on Flickr
 ---
 If all them Nike boxes are like this...
 <p class="post-img-wrap">
