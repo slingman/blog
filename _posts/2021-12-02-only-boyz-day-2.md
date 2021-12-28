@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Only boyz - day 2.
-cover-img: https://live.staticflickr.com/65535/51720383669_f877a281b9_h.jpg
+cover-img: https://live.staticflickr.com/65535/51725082315_0e83b0c389_h.jpg
 subtitle: 336/365 | Project 365
 tags: [blog, 2021, project 365, 336/365, sneakers, holidays]
 ---
@@ -26,7 +26,15 @@ Dinner with friends and family.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51723393827_9bd66e1fbf_h.jpg">
 </p>
-----
+---
+These co-workers fo mines though... <3
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51725082315_0e83b0c389_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/51723393632_3e2cfa5180_h.jpg">
+</p>
+---
 This tank of ours...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51720385234_db5b4f1d5c_h.jpg">
