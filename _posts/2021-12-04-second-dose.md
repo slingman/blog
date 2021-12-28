@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second dose
+title: Second dose.
 cover-img: https://live.staticflickr.com/65535/51729830499_fcedfb8529_h.jpg
 subtitle: 338/365 | Project 365
 tags: [blog, 2021, project 365, 338/365, vaccine, family]
