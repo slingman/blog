@@ -3,7 +3,7 @@ layout: post
 title: Knight and day.
 cover-img: https://live.staticflickr.com/65535/51743259795_4276b36013_h.jpg
 subtitle: 344/365 | Project 365
-tags: [blog, 2021, project 365, 344/365, sneakers]
+tags: [blog, 2021, project 365, 344/365, tv]
 ---
 <style>
   body {
