@@ -17,15 +17,17 @@ tags: [blog, 2021, project 365, 344/365, sneakers]
     color:#fff;
   }
 </style>
-This brought back a lot of memories...
+This brought back a ton of childhood memories...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51743259795_4276b36013_h.jpg">
 </p>
+I actually didn't realize that I never knew how he actually became the knight rider until I saw the first episode for the first time.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51743017159_d981c280e4_h.jpg">
 </p>
-I actually didn't realize that I never knew how he actually became the knight rider until I saw the first episode for the first time.
+
 ---
+
 During the day though.... the walk included seeing this lovely tree during the fall days...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/51743017644_b62ff83aca_h.jpg">
