@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BTS inspired.
-cover-img: https://live.staticflickr.com/65535/51743265650_a2dd644060_h.jpg
+cover-img: https://live.staticflickr.com/65535/51743413179_fc3abfd4b2_h.jpg
 subtitle: 346/365 | Project 365
 tags: [blog, 2021, project 365, 346/365, food, family, BTS]
 ---
