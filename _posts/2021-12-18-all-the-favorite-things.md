@@ -3,7 +3,7 @@ layout: post
 title: All the favorite things.
 cover-img: https://live.staticflickr.com/65535/51755113387_1f081cda82_h.jpg
 subtitle: 352/365 | Project 365
-tags: [blog, 2021, project 365, 352/365, food, family, friends]
+tags: [blog, 2021, project 365, 352/365, food, family, friends, pokemon]
 ---
 <style>
   body {
