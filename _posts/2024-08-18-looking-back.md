@@ -2,7 +2,7 @@
 layout: post
 title: Looking back.
 cover-img: https://live.staticflickr.com/65535/53932636171_e912894acd_b.jpg
-subtitle: A lookback
+subtitle: Refresh github
 tags: [blog, 2024]
 ---
 <style>
@@ -21,10 +21,9 @@ I got around to look at the old project 365 blog that I did back in 2021 today, 
 
 Some pics...
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/53932636171_e912894acd_h.jpg">
+  <img src="https://live.staticflickr.com/65535/53932636171_e912894acd_b.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/53932636171_e912894acd_h.jpg">
+  <img src="https://live.staticflickr.com/65535/53932636171_eb0023b3f0_h.jpg">
 </p>
 ---
-
