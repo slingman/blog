@@ -19,7 +19,7 @@ tags: [blog, 2024]
 </style>
 I got around to look at the old project 365 blog that I did back in 2021 today, reminds me how much I miss this, even though painful at times. :P
 
-Some pics...
+Some pics from today...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/53932879208_f825b60780_h.jpg">
 </p>
