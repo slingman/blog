@@ -1,0 +1,33 @@
+---
+layout: post
+title: New Project 365
+cover-img: https://live.staticflickr.com/65535/54239757861_a2a772eadb_h.jpg
+subtitle: 2025 here we go!
+tags: [blog, 2025]
+---
+<style>
+  body {
+    background:#000;
+    color:#fff;
+  }
+  .intro-header.big-img {
+    background-position:center; 
+  }
+  .blog-tags a {
+    color:#fff;
+  }
+</style>
+Spent the new years eve and counted at Disneyland
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54239757861_a2a772eadb_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54239758371_1cc3367454_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54238856622_ee82391259_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54238856057_e75dcb1af9_h.jp">
+</p>
+---
