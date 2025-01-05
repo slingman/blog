@@ -13,6 +13,10 @@
   padding:5px 10px;
 }
 
+.intro-header.big-img {
+    background-position:center; 
+}
+
 .watermark {
   position:absolute; 
   color:#eee; 
