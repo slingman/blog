@@ -10,9 +10,6 @@ tags: [blog, 2025, project 365, 004/365/2025]
     background:#000;
     color:#fff;
   }
-  .blog-tags a {
-    color:#fff;
-  }
 </style>
 The usual weekend shenanigans, back to a normal regular scheduled programming if you will.
 Bike riding... 
