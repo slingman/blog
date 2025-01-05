@@ -1,3 +1,7 @@
+body {
+  font-size:1rem;
+}
+
 .post-img-wrap {
   border:5px solid #eee;
   position:relative;
