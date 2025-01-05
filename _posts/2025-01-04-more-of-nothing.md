@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More of nothing
-cover-img: https://live.staticflickr.com/65535/54243432816_9e8e8351d2_h.jpg
+cover-img: https://live.staticflickr.com/65535/54247207781_efdb179478_h.jpg
 subtitle: 004/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 004/365/2025]
 ---
