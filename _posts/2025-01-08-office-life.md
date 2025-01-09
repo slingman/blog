@@ -26,5 +26,5 @@ Love and hate these CONCPTS x Air Max 1s. The tongue keeps on slippin' down.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54255303536_d519548d0b_h.jpg">
 </p>
-Speaking of which... check out <a href="https://www.instagram.com/dad.stocks.wears">dad.stock.wears</a> on Instagram
+Speaking of which... check out <a href="https://www.instagram.com/dad.stocks.wears">dad.stock.wears</a> on Instagram. I created this last year and got some of the sneakerhead friends to post their wears of the day as well! Its been fun so far.
 ---
