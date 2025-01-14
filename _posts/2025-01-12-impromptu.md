@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impromptu
-cover-img: https://live.staticflickr.com/65535/54261708644_1831f4d97c_h.jpg
+cover-img: https://live.staticflickr.com/65535/54263898360_fead066995_h.jpg
 subtitle: 012/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 012/365]
 ---
