@@ -14,8 +14,8 @@ tags: [blog, 2025, project 365, 012/365]
     color:#fff;
   }
 </style>
-Impromptu BBQ in Alameda on Sunday @ <a href="https://www.fikscue.com/" target=_blank>Fikscue</a>, was feeling some bbq since Friday, so appreciate the family going into Alameda to line up with me!<br>
-But first, a morning ride to balance the calorie count, it was cold.
+<p>Impromptu BBQ in Alameda on Sunday @ <a href="https://www.fikscue.com/" target=_blank>Fikscue</a>, was feeling some bbq since Friday, so appreciate the family going into Alameda to line up with me!</p>
+<p></p>But first, a morning ride to balance the calorie count, it was cold.</p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54263896205_a271c456de_h.jpg">
 </p>
