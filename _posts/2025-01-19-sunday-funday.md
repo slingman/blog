@@ -3,7 +3,7 @@ layout: post
 title: Sunday funday
 cover-img: https://live.staticflickr.com/65535/54276835059_d8429ab44f_h.jpg
 subtitle: 019/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 019/365]
+tags: [blog, 2025, project 365, 019/365, calistoga, lees, wine]
 ---
 <style>
   body {
