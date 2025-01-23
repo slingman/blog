@@ -68,4 +68,24 @@ Fourth stop. Didn't get to drink any, but the view was... Asian-y and Western-y.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54276841363_1221e956bd_h.jpg">
 </p>
+Lunch.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54277016700_1051fc4f12_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54276836414_fa747b54fb_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54276842928_60336a6725_h.jpg">
+</p>
+Last stop at Sterling's. Not impressed at all, but the size of that property was impressive.<br>
+The gondola.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54277016650_6ea4e5b809_h.jpg">
+</p>
+The land.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54275712207_258e974230_h.jpg">
+</p>
+The wine was not good at all... so didn't bother taking pics.
 ---
