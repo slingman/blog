@@ -43,6 +43,6 @@ After all that, I got around to build my favorite car in Lego.
   <img src="https://live.staticflickr.com/65535/54280881304_9938762bb9_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54280881129_3eef89fffd_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54280886763_2f838d37fb_h.jpg">
 </p>
 ---
