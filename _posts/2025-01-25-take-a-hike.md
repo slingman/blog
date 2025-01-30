@@ -3,7 +3,7 @@ layout: post
 title: Take a hike
 cover-img: https://live.staticflickr.com/65535/54288053546_10ac0d0772_h.jpg
 subtitle: 025/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 025/365]
+tags: [blog, 2025, project 365, 025/365, weekend, saturday]
 ---
 <style>
   body {
