@@ -38,6 +38,12 @@ There were actually seals.
   <img src="https://live.staticflickr.com/65535/54288227451_fc96544328_h.jpg">
 </p>
 <p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54288463544_a1826d6b44_h.jpg">
+</p>
+<p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54288227641_618f51f15c_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54287342097_91d3ecb781_h.jpg">
 </p>
 ---
