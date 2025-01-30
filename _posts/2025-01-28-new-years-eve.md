@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Year's eve
-cover-img: https://live.staticflickr.com/65535/54291913762_5b19ab76df_h.jpg
-subtitle: 027/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 027/365, tuesday, january, lunar new year eve]
+cover-img: https://live.staticflickr.com/65535/54294585733_4a8799adfd_h.jpg
+subtitle: 028/365 | Project 365 | 2025
+tags: [blog, 2025, project 365, 028/365, tuesday, january, lunar new year eve]
 ---
 <style>
   body {
