@@ -43,4 +43,7 @@ And then onto the jazz concert
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54314099508_28ba0a5e24_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/7T25735024" title="PXL_20250208_041624491"><img src="https://live.staticflickr.com/31337/54314092054_34596c0d5f_b.jpg" width="1024" height="576" alt="PXL_20250208_041624491"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p>
 ---
