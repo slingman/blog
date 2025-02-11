@@ -62,7 +62,6 @@ Then prime rib for dinner as requested.
   <img src="https://live.staticflickr.com/65535/54315986230_3cb66fcc08_h.jpg">
 </p>
 ---
-Happy 16th Birthday, Lotus.
-
---- 
+<p>Happy 16th Birthday, Lotus.</p>
+---
 
