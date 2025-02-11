@@ -14,7 +14,7 @@ tags: [blog, 2025, project 365, 040/365, sunday, february, superbowl]
     color:#fff;
   }
 </style>
-Lotus's birthday always falls on around Superbowl, the big American football event every year. We went to the mother-in-law's place to watch the big game and had wings.
+Lotus's birthday always falls on around Superbowl, the big American football event every year. We went to the mother-in-law's place to watch the big game and had wings. The wings were from Wingstop, it was aight. Mother-in-law's are still some of the best I have had.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54318153524_ac00bfe587_h.jpg">
 </p>
