@@ -26,6 +26,6 @@ All the February birthdays...
   <img src="https://live.staticflickr.com/65535/54317919496_bea2170b6a_h.jpg">
 </p>
 ---
-It was all so great to see the Chiefs lose. 👋 Chiefs. Kendrick's halftime performance was also... historical and masterful.
+It was oh so great to see the Chiefs lose. 👋 Chiefs. Kendrick's halftime performance was also... historical and masterful.
 --- 
 
