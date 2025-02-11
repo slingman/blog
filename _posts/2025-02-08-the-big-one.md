@@ -16,7 +16,7 @@ tags: [blog, 2025, project 365, 039/365, saturday, february, birthday, 16th]
 </style>
 It's Lotus's birthday today. 😲 The 16th birthday.
 
-Brunch first.
+Brunch first. @Kan Kin Daly City
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54315593749_64dc347c3a_h.jpg">
 </p>
