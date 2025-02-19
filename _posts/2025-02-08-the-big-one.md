@@ -10,6 +10,9 @@ tags: [blog, 2025, project 365, 039/365, saturday, february, birthday, 16th]
     background:#000;
     color:#fff;
   }
+  .intro-header.big-img {
+    background-position:bottom; 
+  }
   .blog-tags a {
     color:#fff;
   }
