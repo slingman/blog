@@ -14,7 +14,8 @@ tags: [blog, 2025, project 365, 045/365, friday, february, sneakers]
     color:#fff;
   }
 </style>
-<p>We don't do much of any valentines day celebration anymore since the kids.  Lotus spent the evening hanging with her friends at her high school watching the men's basketball team beat their opponent. While we went to get pizza with Raiden.</p>
+<p>We don't do much of any valentines day celebration anymore since the kids.</p>
+<p>Lotus spent the evening hanging with her friends at her high school watching the men's basketball team beat their opponent. While we went to get pizza with Raiden.</p>
 ---
 Here are some recent pickups though :P
 <p class="post-img-wrap">
