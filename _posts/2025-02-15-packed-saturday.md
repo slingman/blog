@@ -74,8 +74,25 @@ The actual concert did not disappoint.
   <img src="https://live.staticflickr.com/65535/54330836258_36ecd7a1c6_h.jpg">
 </p>
 ---
-
-
-
-
-
+Went to hang out at Hayes afterwards and saw this cool bus.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330616111_c75b5238f5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330835999_06b44625b3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330835919_d6cc7f0755_h.jpg">
+</p>
+---
+Katsuo + Kombu for dinner.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330836279_b7a10613a3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330616651_845dfca821_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54331019290_b326af12ff_h.jpg">
+</p>
+---
