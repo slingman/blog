@@ -87,12 +87,18 @@ Went to hang out at Hayes afterwards and saw this cool bus.
 ---
 Katsuo + Kombu for dinner.
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54330836279_b7a10613a3_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54330836329_971c717bcc_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54330616651_845dfca821_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54331019290_b326af12ff_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330836648_c5732e3d72_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54330616371_8766245115_h.jpg">
 </p>
 ---
