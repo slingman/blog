@@ -15,6 +15,8 @@ tags: [blog, 2025, project 365, 048/365, monday, february, holiday]
   }
 </style>
 I was the only one that had to work today. It was dead in the office, but it was a nice short commute. I refuse to call that dumbass the president.
+
+Tiff made this... it was delicious.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54335130210_4d8be9abf0_h.jpg">
 </p>
