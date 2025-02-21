@@ -2,8 +2,8 @@
 layout: post
 title: Wednesday
 cover-img: https://live.staticflickr.com/65535/54338293802_39e009a8de_h.jpg
-subtitle: 049/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 049/365, wednesday, february, food, sneakers]
+subtitle: 050/365 | Project 365 | 2025
+tags: [blog, 2025, project 365, 050/365, wednesday, february, food, sneakers]
 ---
 <style>
   body {
