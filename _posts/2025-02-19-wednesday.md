@@ -11,7 +11,7 @@ tags: [blog, 2025, project 365, 050/365, wednesday, february, food, sneakers]
     color:#fff;
   }
   .intro-header.big-img {
-    background-position:bottom; 
+    background-position:center; 
   }
   .blog-tags a {
     color:#fff;
