@@ -21,6 +21,6 @@ Tiff made this... it was delicious.
   <img src="https://live.staticflickr.com/65535/54335130210_4d8be9abf0_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/84XY2Dep9E" title="PXL_20250218_012840553.PORTRAIT"><img src="https://live.staticflickr.com/65535/54335130210_4d8be9abf0_h.jpg" width="1600" height="1205" alt="PXL_20250218_012840553.PORTRAIT"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/84XY2Dep9E" title="PXL_20250218_012840553.PORTRAIT"><img src="https://live.staticflickr.com/65535/54335130210_ca96cfb579_b.jpg" width="1024" height="771" alt="PXL_20250218_012840553.PORTRAIT"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 ---
