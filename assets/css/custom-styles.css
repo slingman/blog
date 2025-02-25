@@ -27,10 +27,6 @@ body {
     background-position:center; /* vertical center of the header image in the post */
 }
 
-.intro-header.no-img {
-  display:none; /* hiding the repeating post title */
-}
-
 .watermark {
   position:absolute; 
   color:#eee; 
