@@ -21,6 +21,11 @@ body {
 .blog-tags a {
   border:1px solid #eee;
   padding:5px 10px;
+  color:#fff;
+}
+
+.blog-tags a:hover {
+  color:#fff;
 }
 
 .header-section.has-img .intro-header.no-img {
