@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So full
+title: Over eat Saturday
 cover-img: "https://live.staticflickr.com/65535/54345517390_ff37de4cff_h.jpg"
 subtitle: 053/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 053/365, friday, february, food, sneakers]
@@ -20,6 +20,8 @@ tags: [blog, 2025, project 365, 053/365, friday, february, food, sneakers]
     display:none; /* hiding the repeating post title */
   }
 </style>
+A lot of food today... 
+<p></p>
 Brisbane. 7 Mile House.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54344204392_7178981012_h.jpg">
