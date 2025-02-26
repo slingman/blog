@@ -23,6 +23,10 @@ body {
   padding:5px 10px;
 }
 
+.header-section.has-img .intro-header.no-img {
+  display:none;
+}
+
 .intro-header.big-img {
     background-position:center; /* vertical center of the header image in the post */
 }
