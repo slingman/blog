@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Expensive Tuesday
-cover-img: "https://live.staticflickr.com/65535/54349371231_17a79b07d2_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54353618749_70fa6d10d8_h.jpg"
 subtitle: 056/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 056/365, tuesday, february]
+tags: [blog, 2025, project 365, 056/365, tuesday, february, sneakers]
 ---
 <style>
   .intro-header.big-img {
