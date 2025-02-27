@@ -6,10 +6,6 @@ subtitle: 053/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 053/365, friday, february, food, sneakers]
 ---
 <style>
-  body {
-    background:#000;
-    color:#fff;
-  }
   .intro-header.big-img {
     background-position:center; 
   }
