@@ -13,12 +13,6 @@ tags: [blog, 2025, project 365, 053/365, friday, february, food, sneakers]
   .intro-header.big-img {
     background-position:center; 
   }
-  .blog-tags a {
-    color:#fff;
-  }
-  .intro-header.no-img {
-    display:none; /* hiding the repeating post title */
-  }
 </style>
 A lot of food today... 
 <p></p>
