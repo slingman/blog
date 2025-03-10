@@ -23,7 +23,7 @@ Last minute invite from wifey.
   <img src="https://live.staticflickr.com/65535/54370861195_e61fbab085_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54370861195_e61fbab085_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54370703428_7e578c6e5a_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54370703548_ef09fb4563_h.jpg">
