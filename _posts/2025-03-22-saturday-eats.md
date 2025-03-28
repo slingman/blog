@@ -1,6 +1,6 @@
 ---
 layout: post
-title: San Jose
+title: Saturday eats
 cover-img: "https://live.staticflickr.com/65535/54403496222_bb9b8dbfe6_h.jpg"
 subtitle: 081/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 081/365, saturday, march, sneakers, food]
