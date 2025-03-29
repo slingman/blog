@@ -20,7 +20,6 @@ These are great.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54409054024_c9c90b1d27_h.jpg">
 </p>
-
 ---
 
 Also... these are great...
