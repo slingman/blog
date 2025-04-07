@@ -14,7 +14,7 @@ Went to check the Pilot before taking it up to Yosemite next week.
 
 Took this pic...
 <p class="post-img-wrap">
-  <img src="https://www.flickr.com/gp/sling_flickr/33Po57013L][img]https://live.staticflickr.com/65535/54416154745_7420af893d_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54416154745_7420af893d_h.jpg">
 </p>
 And then I asked ChatGPT to make it "comic-like"... SUPER impressed.
 <p class="post-img-wrap">
