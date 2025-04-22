@@ -30,6 +30,6 @@ Meanwhile.... dinner. Canned octopus tossed pasta! Yums.
   <img src="https://live.staticflickr.com/65535/54436036883_6db77be0bf_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="ttps://live.staticflickr.com/65535/54436159785_812aee0794_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54436159785_812aee0794_h.jpg">
 </p>
 ---
