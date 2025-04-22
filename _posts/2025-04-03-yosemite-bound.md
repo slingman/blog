@@ -84,7 +84,7 @@ The view outside is cool... just a quick walk up this one hill...
   <img src="https://live.staticflickr.com/65535/54433143020_b824029ab7_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54433019828_a5c612a83b_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54433134503_b8d842593e_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54433019828_a5c612a83b_h.jpg">
