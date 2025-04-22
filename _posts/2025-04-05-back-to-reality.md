@@ -10,6 +10,36 @@ tags: [blog, 2025, project 365, 095/365, saturday, april, spring break, food]
     background-position:center; 
   }
 </style>
+One last hang at the glamping grounds lookout before we check out.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54435571684_6c0f703100_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54435625428_cfd1672aff_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54434522947_16f59fa0d5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54435626093_50883b57ba_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54435383581_88e6252265_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54436159315_3b665c882f_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54434523262_a0a7bce1e5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54434931682_ba7da1c8d6_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54434931687_8bff6cf6e2_h.jpg">
+</p>
+---
+
 Quick stop at Ululani's in Livermore, before heading home.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54435791651_1396da75ab_h.jpg">
