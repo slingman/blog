@@ -7,7 +7,7 @@ tags: [blog, 2025, project 365, 093/365, thursday, april, eats, yosemite, merced
 ---
 <style>
   .intro-header.big-img {
-    background-position:center; 
+    background-position:bottom; 
   }
 </style>
 Heading to our glamping grounds for Yosemite today. Eventful ride up, but first, eats in Merced.
