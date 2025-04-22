@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yosemite bound
-cover-img: "https://live.staticflickr.com/65535/54429962212_9e6b1b352a_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54432025592_79a8490d8a_h.jpg"
 subtitle: 093/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 093/365, thursday, april, eats, yosemite, merced, spring break]
 ---
@@ -76,5 +76,44 @@ The view outside is cool... just a quick walk up this one hill...
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54431071723_abada755b1_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54432587274_9deea1e735_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433143020_b824029ab7_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433019828_a5c612a83b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433019828_a5c612a83b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54432766111_68805b5e55_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433020288_9498d04b94_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54431911817_b8c0b10da0_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54432881051_38ae45d059_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433144275_ee4dbf7b23_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433135368_db233b1497_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54433134778_a8ab91932e_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54432881351_7c8bcf16bf_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54432025592_79a8490d8a_h.jpg">
 </p>
 ---
