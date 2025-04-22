@@ -21,4 +21,7 @@ Also this view at Lotus's school though...
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54443520632_9cdf90c2a8_3k.jpg">
 </p>
+<p class="post-img-wrap">
+<a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/NC6z0M5159" title="PXL_20250410_151101873"><img src="https://live.staticflickr.com/31337/54444621363_5e3208a443_b.jpg" width="1200" alt="PXL_20250410_151101873"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p>
 ---
