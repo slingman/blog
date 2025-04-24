@@ -180,4 +180,50 @@ An impromptu playing tourist day in the city today, started at Japan town at the
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54474188555_3da4a42fb4_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54474120643_2590a49cb5_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54447682412_c756adc3e3_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448546016_31d600ec15_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448788173_c434b96a4d_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54447683237_0c05807998_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448728084_fc9eb6efe9_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448728174_75cd4c038d_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54474151298_c202686b52_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54447684027_3a9ab306ea_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448789603_e2fc35b2df_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448547921_d373636ccf_h.jpg">
+</p>
+---
+Dinner.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448790133_07767a798e_h.jpg">
+</p>
+---
+The so called pink moon?
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54448548641_eab6626358_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54447685432_d07848697c_h.jpg">
+</p>
 ---
