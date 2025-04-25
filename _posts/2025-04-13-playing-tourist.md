@@ -94,7 +94,7 @@ An impromptu playing tourist day in the city today, started at Japan town at the
   <img src="https://live.staticflickr.com/65535/54448286133_23e3649c42_h.jpg">
 </p>
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54447184102_df26f120cf_h.jpg">
+  <img src="https://live.staticflickr.com/65535/54473147467_2a5c8803aa_h.jpg">
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54448539366_f709f13866_h.jpg">
