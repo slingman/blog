@@ -7,7 +7,7 @@ tags: [blog, 2025, project 365, 106/365, wednesday, april, sneakers]
 ---
 <style>
   .intro-header.big-img {
-    background-position:bottom; 
+    background-position:center; 
   }
 </style>
 <p class="post-img-wrap">
