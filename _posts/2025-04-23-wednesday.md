@@ -3,7 +3,7 @@ layout: post
 title: Wednesday
 cover-img: "https://live.staticflickr.com/65535/54472667165_98cb2f1939_h.jpg"
 subtitle: 113/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 113/365, tuesday, april, eats, sneakers, track meet]
+tags: [blog, 2025, project 365, 113/365, wednesday, april, eats, sneakers, track meet]
 ---
 <style>
   .intro-header.big-img {
