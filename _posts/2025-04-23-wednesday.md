@@ -22,7 +22,6 @@ Tiff's world famous chicken salad for dinner once again.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54472668865_b1dcd7df45_h.jpg">
 </p>
-
 ---
 Second track meet today with the DSLR.
 <p class="post-img-wrap">
