@@ -41,4 +41,7 @@ Gen as birthday dinner for Raiden with the fam.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54481776535_b25ea6f979_h.jpg">
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54481698088_d25b5ec6bf_h.jpg">
+</p>
 ---
