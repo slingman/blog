@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Celebration continues
-cover-img: "https://live.staticflickr.com/65535/54495348360_279f94b86c_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54498090539_65a2b873b9_h.jpg"
 subtitle: 124/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 124/365, sunday, may, raiden, birthday]
 ---
@@ -30,5 +30,12 @@ For dinner, we took Raiden and his friends of his choice to Limon.
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54498118993_a01671481b_h.jpg">
+</p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54498090539_65a2b873b9_h.jpg">
+</p>
+Salt & Straw afterwards of course.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54498163593_b68b84f0f4_h.jpg">
 </p>
 ---
