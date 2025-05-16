@@ -15,7 +15,7 @@ First, coffee with ube cream by Lotus for Tiff.
   <img src="https://live.staticflickr.com/65535/54498118723_9b6c6fc29e_h.jpg">
 </p>
 ---
-For dinner, we took Raiden and his friends of his choice to Limon.
+For dinner, we took Raiden and his friends of his choice to Limon. This is still part of his 12th birthday celebration.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54497902531_d15456f8b8_h.jpg">
 </p>
