@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gold mountain
-cover-img: "https://live.staticflickr.com/65535/54501854847_ce57c4ec07_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54505204655_5bfe17afcb_h.jpg"
 subtitle: 127/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 127/365, wednesday, may, sneakers]
 ---
