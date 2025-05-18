@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mother's Day
-cover-img: "https://live.staticflickr.com/65535/54527003725_a3dd3e3f57_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54514022878_6c986ee2fd_h.jpg"
 subtitle: 131/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 131/365, sunday, may, sneakers, mothers day, eats, family]
 ---
