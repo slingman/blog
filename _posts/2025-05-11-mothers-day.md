@@ -12,7 +12,7 @@ tags: [blog, 2025, project 365, 131/365, sunday, may, sneakers, mothers day, eat
 </style>
 Happy mother's day!
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54510418197_c188097a38_3k.jpg">
+  <img src="https://live.staticflickr.com/65535/54511640460_affa7841a5_h.jpg">
 </p>
 ---
 Had lunch with the Lee's.
