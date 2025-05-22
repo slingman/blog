@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cancer free
-cover-img: "https://live.staticflickr.com/65535/54528346447_501abff0f2_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54531078187_e5e7aef7de_h.jpg"
 subtitle: 139/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 139/365, monday, may, eats, sneakers]
 ---
