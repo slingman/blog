@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monday
+title: Cancer free
 cover-img: "https://live.staticflickr.com/65535/54528346447_501abff0f2_h.jpg"
 subtitle: 139/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 139/365, monday, may, eats, sneakers]
@@ -24,6 +24,8 @@ Dinner. Trader Joe's frozen Kalbi FTW.
   <img src="https://live.staticflickr.com/65535/54531078177_1af70414c0_h.jpg">
 </p>
 ---
+
+The reason for the title, by the way, is because we found out today that Lisa is cancer free. I am so happy. :)
 
 Big ass strawberry.
 <p class="post-img-wrap">
