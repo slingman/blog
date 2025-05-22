@@ -17,6 +17,10 @@ Today's wear.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54531961961_b3cb14183c_h.jpg">
 </p>
+Also, DO NOT walk or run in Air Max 1s. So bad.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54532200753_ed0cb04c5b_h.jpg">
+</p>
 ---
 
 Dinner. Trader Joe's frozen Kalbi FTW.
