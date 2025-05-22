@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Escargot my cargo
-cover-img: "https://live.staticflickr.com/65535/54527895736_9e37aa4ab4_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54528346447_501abff0f2_h.jpg"
 subtitle: 138/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 138/365, sunday, may, eats, food]
 ---
