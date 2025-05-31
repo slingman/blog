@@ -39,4 +39,3 @@ WDYWT.
   <img src="https://live.staticflickr.com/65535/54547679517_9076504a40_h.jpg">
 </p>
 ---
-[url=https://www.flickr.com/gp/sling_flickr/My8Y429mRh][img]https://live.staticflickr.com/65535/54547679517_9076504a40_h.jpg[/img][/url][url=https://www.flickr.com/gp/sling_flickr/My8Y429mRh]PXL_20250527_014647870.PORTRAIT[/url] by [url=https://www.flickr.com/photos/sling_flickr/]Steve Ling[/url], on Flickr
