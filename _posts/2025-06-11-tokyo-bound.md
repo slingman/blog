@@ -3,7 +3,7 @@ layout: post
 title: Tokyo bound
 cover-img: "https://live.staticflickr.com/65535/54583766058_816b548c15_h.jpg"
 subtitle: 162/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 162/365, wednesday, june]
+tags: [blog, 2025, project 365, 162/365, wednesday, june, japan]
 ---
 <style>
   .intro-header.big-img {
