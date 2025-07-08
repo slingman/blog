@@ -3,7 +3,7 @@ layout: post
 title: Time travel
 cover-img: "https://live.staticflickr.com/65535/54596791664_b5dde94061_h.jpg"
 subtitle: 163/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 163/365, thursday, june]
+tags: [blog, 2025, project 365, 163/365, thursday, june, japan]
 ---
 <style>
   .intro-header.big-img {
