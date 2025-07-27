@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saturday
+title: Saturday back to SF
 cover-img: "https://live.staticflickr.com/65535/54665829065_566a5c08f9_h.jpg"
 subtitle: 200/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 200/365, saturday, july, eats, LA]
