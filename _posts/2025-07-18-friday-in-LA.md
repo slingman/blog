@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Friday
+title: Friday in LA
 cover-img: "https://live.staticflickr.com/65535/54663774718_07bad608f0_h.jpg"
 subtitle: 199/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 199/365, friday, july, eats, LA]
