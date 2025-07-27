@@ -28,7 +28,7 @@ Didn't know they had creme brulee. Not bad.
 </p>
 ---
 
-A failed attempt of capturing a rare car.
+A failed attempt of capturing a rare car on the way back to working from LA.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54660625194_07af763d6b_h.jpg">
 </p>
@@ -51,5 +51,11 @@ Raiden's bulgogi.
 Some sorta seafood noodles. It was not bad, but also a bit meh.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54660397181_3c1ad6d020_h.jpg">
+</p>
+---
+
+Now I part you with this.
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54660722560_a8dbfa5bb4_h.jpg">
 </p>
 ---
