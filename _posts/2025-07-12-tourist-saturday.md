@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tourist Saturday
-cover-img: "https://live.staticflickr.com/65535/54652968243_6af9f9a6f1_h.jpg"
+cover-img: "https://live.staticflickr.com/65535/54650670516_ddc6304282_h.jpg"
 subtitle: 193/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 193/365, saturday, july, tourist, san francisco]
 ---
@@ -38,10 +38,14 @@ Originally was a planned hiking situation in SF, but the fog became too much... 
 Walked around Sausalito. Love this place.
 <p class="post-img-wrap">
   <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/7m24N4d32k" title="PXL_20250712_181331836">
-    <img src="https://live.staticflickr.com/31337/54698766520_4a1b2a50ac_h.jpg" width="1600"alt="PXL_20250712_181331836"/></a>
+    <img src="https://live.staticflickr.com/31337/54698766520_4a1b2a50ac_h.jpg" width="1600" alt="PXL_20250712_181331836"/></a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54650289054_cc1d404b8f_h.jpg">
+</p>
+---
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54650670516_ddc6304282_h.jpg">
 </p>
 ---
