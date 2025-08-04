@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thursday
+title: Art & Rec
 cover-img: "https://live.staticflickr.com/65535/54676388747_c56db0ad70_h.jpg"
 subtitle: 205/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 205/365, thursday, july, sneakers]
