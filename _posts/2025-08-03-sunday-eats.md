@@ -59,7 +59,6 @@ She agrees...
   <img src="https://live.staticflickr.com/65535/54698610289_448be9d076_h.jpg">
 </p>
 ---
-[url=https://www.flickr.com/gp/sling_flickr/3HZ37083VZ][img]https://live.staticflickr.com/65535/54698610289_448be9d076_h.jpg[/img][/url][url=https://www.flickr.com/gp/sling_flickr/3HZ37083VZ]PXL_20250803_232012681.PORTRAIT[/url] by [url=https://www.flickr.com/photos/sling_flickr/]Steve Ling[/url], on Flickr
 
 
 
