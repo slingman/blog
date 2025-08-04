@@ -35,9 +35,9 @@ Originally was a planned hiking situation in SF, but the fog became too much... 
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 ---
-Walked around Sausalito. Love this place.
+Walked around Sausalito. Love this place. Hamburger Seven Thirty Seven. Grabbed a burger and shared it 3 ways.
 <p class="post-img-wrap">
-  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/7m24N4d32k" title="PXL_20250712_181331836">
+  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/7m24N4d32k" title="Hamburgers Seven Thirty Seven">
     <img src="https://live.staticflickr.com/31337/54698766520_4a1b2a50ac_h.jpg" width="1600" alt="PXL_20250712_181331836"/></a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
