@@ -34,14 +34,16 @@ Originally was a planned hiking situation in SF, but the fog became too much... 
     <img src="https://live.staticflickr.com/31337/54698428971_2cd53f444e_b.jpg" width="1200" alt="PXL_20250712_173058554"/></a>
   <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
+<p class="post-img-wrap">
+  <img src="https://live.staticflickr.com/65535/54650288758_cf0db3af9f_h.jpg">
+</p>
 ---
-Walked around Sausalito. 
+Left the hiking area and walked around Sausalito instead. 
 
 Love this place. Hamburger Seven Thirty Seven. Grabbed a burger and shared it 3 ways.
+
 <p class="post-img-wrap">
-  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/7m24N4d32k" title="Hamburgers Seven Thirty Seven">
-    <img src="https://live.staticflickr.com/31337/54698766520_4a1b2a50ac_h.jpg" width="1200" alt="Hamburgers Seven Thirty Seven"/></a>
-  <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/8071t7R2Z4" title="PXL_20250712_181331836"><img src="https://live.staticflickr.com/31337/54698766520_4a1b2a50ac_h.jpg" width="1600" height="900" alt="PXL_20250712_181331836"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54650289054_cc1d404b8f_h.jpg">
