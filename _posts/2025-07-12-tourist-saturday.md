@@ -42,7 +42,9 @@ Left the hiking area and walked around Sausalito instead.
 
 Love this place. Hamburger Seven Thirty Seven. Grabbed a burger and shared it 3 ways.
 <p class="post-img-wrap">
-  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/8071t7R2Z4" title="PXL_20250712_181331836"><img src="https://live.staticflickr.com/31337/54698766520_4a1b2a50ac_h.jpg" width="1200" alt="PXL_20250712_181331836"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" href="https://www.flickr.com/gp/sling_flickr/Vdw9t27805" title="PXL_20250712_181331836">
+    <img src="https://live.staticflickr.com/31337/54698766520_f935ac05aa_b.jpg" width="1200" alt="PXL_20250712_181331836"/></a>
+  <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </p>
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54650289054_cc1d404b8f_h.jpg">
