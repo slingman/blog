@@ -10,7 +10,7 @@ tags: [blog, 2025, project 365, 211/365, wednesday, july, sneakers]
     background-position:center; 
   }
 </style>
-I dont think I shared the pics ot the arts and rec air trainers 1 yet. A good idea since I failed to take any pictures today. So here it goes... same quality as the dunks in the set.
+I don;t think I shared the pics of the arts and rec Nike Air Trainers 1 yet. A good idea since I failed to take any pictures today. So here it goes... same quality as the dunks in the set.
 <p class="post-img-wrap">
   <img src="https://live.staticflickr.com/65535/54681907824_c4b0b8597c_h.jpg">
 </p>
