@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tuesday - 11th Grade first day
-cover-img: "https://live.staticflickr.com/65535/54717995653_9fe0188463_h.jpg"
-subtitle: 224/365 | Project 365 | 2025
-tags: [blog, 2025, project 365, 224/365, tuesday, august, eats]
+cover-img: "https://live.staticflickr.com/65535/54719882181_6a0770eb22_h.jpg"
+subtitle: 225/365 | Project 365 | 2025
+tags: [blog, 2025, project 365, 225/365, wednesday, august, lotus, eats]
 ---
 <style>
   .intro-header.big-img {
