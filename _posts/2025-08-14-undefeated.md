@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thursday
+title: Undefeated
 cover-img: "https://live.staticflickr.com/65535/54721916576_994434a567_h.jpg"
 subtitle: 226/365 | Project 365 | 2025
 tags: [blog, 2025, project 365, 226/365, thursday, august, sneakers]
