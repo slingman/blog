@@ -13,7 +13,7 @@ tags: [blog, 2025, project 365, 224/365, tuesday, august, eats]
 
 Raiden's first day of 7th grade.
 <p class="post-img-wrap">
-  <img src="https://live.staticflickr.com/65535/54751238156_a1b2e3fb09_h.jp">
+  <img src="https://live.staticflickr.com/65535/54751238156_a1b2e3fb09_h.jpg">
 </p>
 ---
 
